@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Zips/PEAK-0.0.1.zip"
+hash = "4b216048fd7624872c8df0da6c8e3ad9c79f1d85e4d7cdbbdcbef76687a62c2c"
+
+[[files]]
 file = "config/configs here.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -289,8 +293,13 @@ hash = "54f66ca5952d16efae2ec22ea1fbd128cf3fbb58a442c1d2a9aa1f03b62bb21f"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "398d2324ada5ab1d8fe41fd6f9f4cd5e7a337a478e6e99a0a76e6cf464f5d244"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
-hash = "72a867977697dce084eff67f425cf91feb0928e74fe9c5b5db9769f2bc98c074"
+hash = "c13cf3374695e038c258949a0ad2c10eeaa8c53695038317339c52938085ed23"
 metafile = true
 
 [[files]]
@@ -889,6 +898,11 @@ hash = "1a15193250f49d292051ac43a1a6ec5fc91afde1df6ea146ee28257eb6cc3902"
 metafile = true
 
 [[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "6f644896febfc7c9d380dc2e67f95603fa0fe939e5b5b1f3b0d8b671329c5629"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "52ac11be3fbf0acdb5e221c87f50c5c4c56f04521081c742fa68afd51002439b"
 metafile = true
@@ -1056,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "57790ebd2f5c9272a0af83b90367cf565b597526031661639afca03e7e1442e7"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "729e677e5283f13acd31efea2ef55ac4c8f4a0459e418fe9b2b94827b3dbb82f"
 metafile = true
 
 [[files]]
