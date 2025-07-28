@@ -1,0 +1,13 @@
+name = "Persistent Creative Inventory"
+filename = "PersistentCreativeInventory-0.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b6Drmxwj/versions/rDOzvtn1/PersistentCreativeInventory-0.0.2.jar"
+hash-format = "sha512"
+hash = "4a71d068aa69eafb537dbc683fa969bfe0408341ba3e15fe55f92aa1232c0c7dea50cfec019ed3395b4914d22aa3f7ef9b3df3f19b2c935da25974e8b8d28fd6"
+
+[update]
+[update.modrinth]
+mod-id = "b6Drmxwj"
+version = "rDOzvtn1"

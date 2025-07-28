@@ -1,0 +1,13 @@
+name = "Bottomless Pouch"
+filename = "bottomlesspouch-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9au4btxb/versions/caTnhNpz/bottomlesspouch-1.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "c3f8ab6f60acbccfc22905533d16e1ae70a9793fe9046c576a0bcdc3fecc123afeb3df989ea85e0170d7c6817af8ab130934cbb2fc23b33745a68f65017f8843"
+
+[update]
+[update.modrinth]
+mod-id = "9au4btxb"
+version = "caTnhNpz"

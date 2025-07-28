@@ -1,0 +1,13 @@
+name = "PEAK"
+author = "Pepper"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "13d9a3adec4cdff908a37b2ccaa6d466ff6f40086e2a1911e46dc4615834d2de"
+
+[versions]
+forge = "47.4.4"
+minecraft = "1.20.1"
