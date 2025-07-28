@@ -4,7 +4,7 @@ version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
-file = "https://pepsthepepper.github.io/PEAK-Minecraft-modpack/index.toml"
+file = "index.toml"
 hash-format = "sha256"
 hash = "1200b8bfdb3ad0637db65e03d808298e75aaf4b543ac1cc9eb9f8a00fb24f9d1"
 
