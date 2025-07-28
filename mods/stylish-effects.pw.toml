@@ -3,8 +3,8 @@ filename = "StylishEffects-v8.0.2-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "90f812020dcbbd854d4e3bab25237250f2e5f84e"
+hash-format = "sha256"
+hash = "1cf5bb835dadc45cb46241adf88ff8ca6ae76279a723f73bd2ce55be62ab85f6"
 mode = "metadata:curseforge"
 
 [update]

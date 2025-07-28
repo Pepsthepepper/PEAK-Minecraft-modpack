@@ -3,8 +3,8 @@ filename = "letsdo-bakery-forge-1.1.15.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5cd44088089fca03f3291b851dcb0d00018fecb"
+hash-format = "sha256"
+hash = "a20f1b1cba05c2cf9f12b28fa28649af417fb9a4b330641236bb1b71c63b0e09"
 mode = "metadata:curseforge"
 
 [update]

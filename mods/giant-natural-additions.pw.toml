@@ -3,8 +3,8 @@ filename = "giant_natural_additions-1.0.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5423fc0c4ef21f7d7c4d62cfa3afa7faabc35a5a"
+hash-format = "sha256"
+hash = "7a4323191b9ba13f8654520df46e798b5fd539605aef949d0705b1efb0d0a5ab"
 mode = "metadata:curseforge"
 
 [update]

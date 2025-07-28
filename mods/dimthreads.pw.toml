@@ -3,8 +3,8 @@ filename = "dimthread-FORGE-mc1.20.1-v1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "89a0d375b7aa99a7c8fd28decc39f4d36b9127c9"
+hash-format = "sha256"
+hash = "dfbe611d586f9682adcd77cf3ebe4ef2e376bf25ffe69d2f0db0e2773d5cfec7"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "cozy_home-3.0.4-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b5c0143e9dca96ddcf999f94c8aa0a30495f49f"
+hash-format = "sha256"
+hash = "590fffdd0125116e79b8d2e98b9f591df680bb4a52a3bfb4e0025a100bf8ad22"
 mode = "metadata:curseforge"
 
 [update]

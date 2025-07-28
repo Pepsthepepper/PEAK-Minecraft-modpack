@@ -3,8 +3,8 @@ filename = "gml-4.0.11-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1b8899ea5a9fd45f2adf8bbb25651a0a95dc6020"
+hash-format = "sha256"
+hash = "4f1014d242c944771d798206c2d38d44d9d77148c4bb7a1f141aa405e7afd9d4"
 mode = "metadata:curseforge"
 
 [update]

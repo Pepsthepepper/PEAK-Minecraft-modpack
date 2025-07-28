@@ -3,8 +3,8 @@ filename = "structureessentials-1.20.1-4.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1f94d509a6c25fa85b748d3cc3015bbbb977a948"
+hash-format = "sha256"
+hash = "fdc7cdf075d4d32bbc96760be0695aee88d0e635eeab5da3e2e7777cb08135c3"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "create_misc_and_things_ 1.20.1_4.0A.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5a6e8ec10bca9c349698afade327ecc3fbbdf17"
+hash-format = "sha256"
+hash = "8807cf3cd7ce328cebfcbc8f51fb656721405c0c5ba8fefd2f407f4be1432b6d"
 mode = "metadata:curseforge"
 
 [update]

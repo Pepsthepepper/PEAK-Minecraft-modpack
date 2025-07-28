@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/U0NtGuWQ/versions/1TPFSBMM/sob-1.20.1-1.1.2.jar"
-hash-format = "sha512"
-hash = "c8e5fa9ef9dfa7fda05e3db5f4d44f27210bef08135653557a2166d46c9fde816d9806878849f243622f12a723738a47ade3cec4f8705bbf8f028f80bbeb7249"
+hash-format = "sha256"
+hash = "13b881bc52e4f207d95e4a6f47346466825f2ad898f36dc2d6f2d560dab3f28a"
 
 [update]
 [update.modrinth]

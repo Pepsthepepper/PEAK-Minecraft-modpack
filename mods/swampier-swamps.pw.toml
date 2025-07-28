@@ -3,8 +3,8 @@ filename = "swampier_swamps-1.20-4.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "894f27d2ff3016f8c778174c04cb79a785b2d0d5"
+hash-format = "sha256"
+hash = "76a34fe5585679dfbdc131db0cb9af2716fa9ca1a987f2a8cffba81981d1cd8f"
 mode = "metadata:curseforge"
 
 [update]

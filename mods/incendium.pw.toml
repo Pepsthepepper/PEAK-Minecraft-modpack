@@ -3,8 +3,8 @@ filename = "Incendium_1.20.x_v5.3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "484556937b1b2dde2682144e7953e79bff717104"
+hash-format = "sha256"
+hash = "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75"
 mode = "metadata:curseforge"
 
 [update]

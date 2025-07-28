@@ -3,8 +3,8 @@ filename = "L_Enders_Cataclysm-3.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1f5eb78908f0b9e8cfbe4d4d82ccf0e8b22d914e"
+hash-format = "sha256"
+hash = "fced50ad4309bed1c00bb86d64c936c38a6000fa6278c3e4e36c3ff91b16498a"
 mode = "metadata:curseforge"
 
 [update]

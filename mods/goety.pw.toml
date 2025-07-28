@@ -3,8 +3,8 @@ filename = "goety-2.5.36.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b5b2b8d513216b4a1e69b47c061725a03e32fda0"
+hash-format = "sha256"
+hash = "6ebf07b33bf1dbaa4cd3964f4f5f9e6070c2222b0d210a24cb40d6f79a89bb2a"
 mode = "metadata:curseforge"
 
 [update]

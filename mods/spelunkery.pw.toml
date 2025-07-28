@@ -3,8 +3,8 @@ filename = "spelunkery-1.20.1-0.3.16-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6de614c207775d0522e53d88dea75226e34955b"
+hash-format = "sha256"
+hash = "453bcccc18e64c6fb43130ae2b8317aa289204f75477db5dddfb6db6175f8975"
 mode = "metadata:curseforge"
 
 [update]

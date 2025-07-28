@@ -3,8 +3,8 @@ filename = "JinxedLib-forge-1.20.1-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d2ee8b85b152a16f8d395a3860375278f5b2caf7"
+hash-format = "sha256"
+hash = "cb04464d9fafee0a4ea09fe45d78c7f3c36dca26bc0b10b670637f9a6673e576"
 mode = "metadata:curseforge"
 
 [update]

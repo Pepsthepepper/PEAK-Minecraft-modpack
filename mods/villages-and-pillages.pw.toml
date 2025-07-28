@@ -3,8 +3,8 @@ filename = "villagesandpillages-forge-mc1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f80991a44ece347f0be2724c63159b6e46ae8393"
+hash-format = "sha256"
+hash = "a28427f27f52147838b1521c9e98f9c78f95afcc4434ac77e41dea982631a512"
 mode = "metadata:curseforge"
 
 [update]

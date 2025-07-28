@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/btq68HMO/versions/TDatHO4i/create_central_kitchen-1.20.1-for-create-6.0.4-1.4.1.jar"
-hash-format = "sha512"
-hash = "761782e56babc42886f1548dc62035766daf522382ac634ba15de8158ea921605766480ce5a52b25c82825790998b9a2ab3d7fca2aa76c384e0a0f68f60e8654"
+hash-format = "sha256"
+hash = "4975d6a3cf827e2c89e96a31179104e21f00050f11e74a3e37c3842809a2e5dd"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "whaleborne-1.20.1_beta-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c66624ce7594617b13cd7024a1f05729d20b0c7"
+hash-format = "sha256"
+hash = "2ca43321ef58f95f91c3d44bce2cbf2317de1ab96bc48c9d7103fd855e26c207"
 mode = "metadata:curseforge"
 
 [update]

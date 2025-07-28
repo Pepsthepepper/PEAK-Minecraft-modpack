@@ -3,8 +3,8 @@ filename = "forgery-3.6.2+1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2e6426a345fb03c6f2a88c1b8fa9f6a38ad97ffa"
+hash-format = "sha256"
+hash = "ef7da8aae512f0009ac4a1c6a9f0fac138f246075e08441f85c0dbc473ac849b"
 mode = "metadata:curseforge"
 
 [update]

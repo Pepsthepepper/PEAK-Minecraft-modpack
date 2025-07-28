@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JxyIfnWu/versions/5Xn9p2q1/Critters%20n%27%20Crawlers-2.2.4-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "861cc6cae4a8ff5c99ee355cd21e4cc58dd66ae57236af70540e3f493000e8cfbfc83dd9fa4d5d5b7425903676925bea77676513b35f7401e185185421b036e1"
+hash-format = "sha256"
+hash = "9539f72630f3007e8721dfd807b1111e470dd2e2bb86ec54aa3ba6b33a029469"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "miners_delight-1.20.1-1.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "817ab785307e34895900fa23ce9d5dc4ee8eadf5"
+hash-format = "sha256"
+hash = "dd7fda44dba9a9e953e35b36f45e2f30dfc2b1df5141574100c80cd4c2861380"
 mode = "metadata:curseforge"
 
 [update]

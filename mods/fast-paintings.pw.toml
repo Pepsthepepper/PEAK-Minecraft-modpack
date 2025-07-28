@@ -3,8 +3,8 @@ filename = "fastpaintings-1.20-1.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "036137a54b8f503794cf38296ff4c7fbf2e9d5cc"
+hash-format = "sha256"
+hash = "cb7e71c87abb53d9bf66836ff3a9036dde261594e25ecbe3e140fe3153ce4358"
 mode = "metadata:curseforge"
 
 [update]

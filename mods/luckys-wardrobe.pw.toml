@@ -3,8 +3,8 @@ filename = "wardrobe-1.0.3.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7985d6e0032af7ab65c6013dfcd03b5797af69ee"
+hash-format = "sha256"
+hash = "a3721fbe21711456971195e343f1e495650e5bfd6041f047311dae94ca4f3227"
 mode = "metadata:curseforge"
 
 [update]

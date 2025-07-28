@@ -3,8 +3,8 @@ filename = "treasuredistance-1.20-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "736d49f14ee48422f6209807c5285e787355d785"
+hash-format = "sha256"
+hash = "eb60a6695f316ab71bbd2cabc373bbe7cebe110a8b804b41a05b6de0c9188e2a"
 mode = "metadata:curseforge"
 
 [update]

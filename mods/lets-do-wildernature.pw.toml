@@ -3,8 +3,8 @@ filename = "letsdo-wildernature-forge-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "35c5f6abe398d3ce62d2641d7d7f9e2d38c63eb8"
+hash-format = "sha256"
+hash = "1919005accef36523e1731f45f133cc7f2352f29a680b05baffe996b5666d02d"
 mode = "metadata:curseforge"
 
 [update]

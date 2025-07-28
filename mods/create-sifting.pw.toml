@@ -3,8 +3,8 @@ filename = "createsifter-1.20.1-1.8.6-6.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "392d21477c1bba6c47f2a5fced662875b016a09e"
+hash-format = "sha256"
+hash = "fc0340ed6b3b76713fc9a7205b364855400439717859d77ad3487631eec5af1a"
 mode = "metadata:curseforge"
 
 [update]

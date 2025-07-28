@@ -3,8 +3,8 @@ filename = "Data_Anchor-forge-1.20.1-1.0.0.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8a6773632382d8fb8e8baa48ee5273a603f57701"
+hash-format = "sha256"
+hash = "dce7102f8b0e39ca4b7a6163517263fc435101bdc4ab7e5116c4afbbc6704609"
 mode = "metadata:curseforge"
 
 [update]

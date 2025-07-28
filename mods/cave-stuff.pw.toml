@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/J3PPzJ93/versions/q9euKJ6s/cave_stuff-1.06.05-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "36aa779f45cc01b6b60868cdbcec68ef5432cdcba6e09ba7ecaffa41e5f0f85183549e1d53886ff35a1234d5e739fea6459734f2effe3e8bd5e903b6ee96a901"
+hash-format = "sha256"
+hash = "fb831eb62f36db0c024a7ce52aaca6145334b758d18a03508e7e9e5ba5a184a7"
 
 [update]
 [update.modrinth]

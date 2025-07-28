@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/MBmh0f9A/versions/6vuwab6O/responsiveshields-2.3-mc1.18-19-20.x.jar"
-hash-format = "sha512"
-hash = "e154e2dea3a31564b5d88c430069ca2e376141ed0994d275fa22507f4fb6abc51f44d272f88a682f36d8ce3f8269d2aa31b713a909582c37a7eacb0d24790a4e"
+hash-format = "sha256"
+hash = "91208c39f5a775a62f983acce4c772f5afc5862ea11c1d3ae39601312c522d65"
 
 [update]
 [update.modrinth]

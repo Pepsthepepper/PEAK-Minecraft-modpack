@@ -3,8 +3,8 @@ filename = "cosycritters-1.20.1-Forge-0.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5922c07167440a778241a0efc4f085dbb2573127"
+hash-format = "sha256"
+hash = "eb2837d928a731c02939fc69d27a0f0f927512ddc6f83bbc3df2324de9f5c138"
 mode = "metadata:curseforge"
 
 [update]

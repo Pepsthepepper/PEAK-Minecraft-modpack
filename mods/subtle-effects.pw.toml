@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/wuWrH6y3/SubtleEffects-forge-1.20.1-1.11.0.jar"
-hash-format = "sha512"
-hash = "8ea288992086f521d90ff6814c0440b724c3b5cadc3e2ea2513fabaf3cf399ceea7e759c595c3db5875a6ab03cb9d4e6067567150a59dae690cc1766f2ed3b65"
+hash-format = "sha256"
+hash = "9efce309f2d51adc15be25ac531adcfd43d08069d17bc6ea1efce16ea19e8b8f"
 
 [update]
 [update.modrinth]

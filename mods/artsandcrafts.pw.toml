@@ -3,8 +3,8 @@ filename = "arts_and_crafts-forge-1.20.1-1.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "afe0671281f6b20e1ecae5dc5d873d4cf1acca9f"
+hash-format = "sha256"
+hash = "eecb6e253719a8aa2539c61efa86b050ae47e30091b829990c953b1591f6eb0c"
 mode = "metadata:curseforge"
 
 [update]

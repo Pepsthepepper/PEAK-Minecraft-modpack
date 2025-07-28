@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/C25outva/Resourcify%20%281.20.1-forge%29-1.7.4.jar"
-hash-format = "sha512"
-hash = "911755d8e077515cc6771b68a8156fc861adc5c611897781779112ea738635feb6b54ad9d2b0643c6fc911f5eab232cbc50c2228fceeffd33511c92d48f60700"
+hash-format = "sha256"
+hash = "d7d54ad35729361abaae5750919f51ff51198ac264be8246de933346c3ef179a"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "Waves-1.20.1-1.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dbbc8dfa855b3af469a48eb55687eb7363246263"
+hash-format = "sha256"
+hash = "16dab6af433f94ab310d70b6bde24ea56df5339508ccd3461bd99705cd49d10f"
 mode = "metadata:curseforge"
 
 [update]

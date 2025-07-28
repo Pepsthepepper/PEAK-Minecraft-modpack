@@ -3,8 +3,8 @@ filename = "naming_unconvention-1.20.1-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5df082a5ab0f0a1ca1422ff30a9cf37ff245d15b"
+hash-format = "sha256"
+hash = "3354c242a4a54a11e2dbba2df2086e143321cca48b8693854dcd8236c0d58632"
 mode = "metadata:curseforge"
 
 [update]

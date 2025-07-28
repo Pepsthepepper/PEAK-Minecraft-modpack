@@ -3,8 +3,8 @@ filename = "wits-1.1.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "59b065469899b8bb5f0dea25abc164baca278587"
+hash-format = "sha256"
+hash = "0ef836cf94d93125ade799509069b9c5290779dddeef57799010341768b39e28"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/m3pkVbY8/versions/aQcerSRS/EchoChest-v8.0.0-1.20.1-Forge.jar"
-hash-format = "sha512"
-hash = "7d630386a5f14ee061f3b019b49723564637ae0128d7bee647e145e831fb6132dd0ae70bd79244a817c94b0862ab4c723c55a8b9bfb42f571b9fed139c28f509"
+hash-format = "sha256"
+hash = "417ba4fb7221e451171785ccdec10b3a97fadde32fb5a4cc31c214df50c3f4d4"
 
 [update]
 [update.modrinth]

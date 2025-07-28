@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/njBFO9fI/versions/edXNrCZD/fireproofboats-1.20.1-1.0.3.jar"
-hash-format = "sha512"
-hash = "d4b526fe255ffab471ca0d5ee33ad131d02dc0ed00ce47eb51e834a6f9cef3122022b7b8f1e1db1db5ce64664e6ee776c3a14b73b5e62e9d53e199738e1726f7"
+hash-format = "sha256"
+hash = "318858bb9c97e19ae49c953021ff7a5e366ec901b33f5eaf48b8fee80ad6f739"
 
 [update]
 [update.modrinth]

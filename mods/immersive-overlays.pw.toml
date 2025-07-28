@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/PKoLkD98/versions/8dKd3N6p/immersiveoverlays-forge-1.2.0%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "a8b28b29445846784661769ba1bf339986ca1d9e64d1c2f19b4ae4f13eb207e2436e287655acc2a1b87473540677225d7dc6b56ec171a3bf41d77daaf5db39f6"
+hash-format = "sha256"
+hash = "967d25e14a7d571517d0dbaedbe6bba052ca0097baac002d5fb60f1fbb4f3e39"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hevpK888/versions/hCft0zTY/boatload-1.20.1-5.0.1.jar"
-hash-format = "sha512"
-hash = "82bf9266e2de0adebcba4effc9552da928fc78dd20b3f5f52da483423d1add1a42756848ec12cebd54d19a7007ca9119af622ef096230b26bb66133cd7275051"
+hash-format = "sha256"
+hash = "54bfd2f1d3bd447f100ab1676f4489e7996c7c2ba1613a91967955160cc75beb"
 
 [update]
 [update.modrinth]

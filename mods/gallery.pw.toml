@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EOA6vv83/versions/GXA1WCeg/gallery-1.20.1-1.0.3.jar"
-hash-format = "sha512"
-hash = "aee033d4ab2752c62071d3835aca8878fe7c4486cbbe7416d31a87e5682fb876b8c79de91fc006fda8b10ec52cb91325b09294b66d53e3e522a62399ad7c814f"
+hash-format = "sha256"
+hash = "92843009ee00d4407484fa8df2a813b909117553f113b35f26f57f87cabb8059"
 
 [update]
 [update.modrinth]

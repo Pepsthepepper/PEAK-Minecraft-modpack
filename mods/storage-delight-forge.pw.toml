@@ -3,8 +3,8 @@ filename = "storagedelight-25.06.26-1.20-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fe9201577effb4d1d448bd8bdf50c0e91f505804"
+hash-format = "sha256"
+hash = "c473dfa7cebb0e1cc4fa658ce456e79bab220c6d8a28aa2ce236fb08b118b0b2"
 mode = "metadata:curseforge"
 
 [update]

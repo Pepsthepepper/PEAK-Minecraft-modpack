@@ -3,8 +3,8 @@ filename = "YungsBetterDungeons-1.20-Forge-4.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "67a9e1c2ff126ab54cea8e0709d178915243039e"
+hash-format = "sha256"
+hash = "93c24e4075c51da0866f3fc92322bdb60e590ac2cd78dce275460839c54c36f5"
 mode = "metadata:curseforge"
 
 [update]

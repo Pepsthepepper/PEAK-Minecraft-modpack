@@ -3,8 +3,8 @@ filename = "illageandspillagerespillaged-1.2.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4770eeb199c1947642456bc6ed4a0a9f54c953d6"
+hash-format = "sha256"
+hash = "295bdc3948c4ac0cd2621d835324003441ad1ad61fe6e430e3a16419335cc133"
 mode = "metadata:curseforge"
 
 [update]

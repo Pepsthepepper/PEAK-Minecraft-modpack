@@ -3,8 +3,8 @@ filename = "moonlight-1.20-2.14.14-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cd442ca65c8c3968af5fcf93ea9536ccc7b0cd92"
+hash-format = "sha256"
+hash = "4ff871c05bba00898e3ca911adbe26dfbe8cba4e9bb1f9f42e7c7985abdb0bf3"
 mode = "metadata:curseforge"
 
 [update]

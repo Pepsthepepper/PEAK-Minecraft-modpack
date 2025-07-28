@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iRE67WIn/versions/agcuRZPZ/piglinproliferation-1.20.1-1.2.6.jar"
-hash-format = "sha512"
-hash = "e52418ebe57bafdf7348b562a526386f331d79bc9a047445b65142962afe6c78cb5ec0c20d81984e033c7d248d5177050fc4665753b9801e348591afe0a96975"
+hash-format = "sha256"
+hash = "d67d59b5ebd38255f15d4c8edb7f8218be95ecbd4514b43b838dff4287089346"
 
 [update]
 [update.modrinth]
