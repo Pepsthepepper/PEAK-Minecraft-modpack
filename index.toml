@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/configs here.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "gitignore.txt"
+hash = "75e2aeab8c2458d4b4de064909fecaaefab11cc3b9e668744784e0b1f2f03d9b"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "2edd661ddabd68657816cf94276a11b55d17d145ce39af646bbbaa85a2141924"
 metafile = true
@@ -1144,6 +1152,18 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "853990ca5227fba866d624f8ed84989869d0e194f44073efc13c7636cbe747d9"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwizignore.txt"
+hash = "92f1054cb1aecbe9eb6a8a13a99c9c75c0596d1ddcfe3d60b65eede52f49d594"
 
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
