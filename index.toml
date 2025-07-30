@@ -37939,7 +37939,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "c9c096ae4682e51ef38f36271b5b97f7753984d03f64df62247cad4424b30e56"
+hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
 metafile = true
 
 [[files]]
@@ -38508,6 +38508,11 @@ hash = "52def9b9a6009cb0f4ef178e2387f6c07f49051af468d0c0f67691681b761580"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "c25f64c7fcc892bf6f5bb8ae43a78eacb0125e2dca82429612a12f87dcff0eed"
+metafile = true
+
+[[files]]
 file = "mods/savage-and-ravage.pw.toml"
 hash = "a59700d72785756b92bb032671e330f94fabd54913d84564dc8f92ddff7212b8"
 metafile = true
@@ -38635,6 +38640,11 @@ metafile = true
 [[files]]
 file = "mods/text-animator.pw.toml"
 hash = "f37a3e8745852a98a6dcef8d1b7460be40831b40d015992f104749ed56de0033"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "84eaf41d59ac6769b174ead6c14c9303110495613d1b749bd61d3d671771a04d"
 metafile = true
 
 [[files]]
