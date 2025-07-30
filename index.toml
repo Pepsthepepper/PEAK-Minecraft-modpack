@@ -37604,7 +37604,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
+hash = "a7fa7c681c6bbc5d614b527c7f234153af5a54686013282ae918f8c1e41dfc23"
 metafile = true
 
 [[files]]
@@ -37890,6 +37890,11 @@ metafile = true
 [[files]]
 file = "mods/dimthreads.pw.toml"
 hash = "6d8b68ef4afc6fa8fc6d9aa771be7f43934ab0d8a83c5cfc3f7e38f73ca0be08"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "c677159b1ed1d490f63364455d60e754564e3285c72a6c9ac26040d853433aaa"
 metafile = true
 
 [[files]]
@@ -38320,6 +38325,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "add17153224b5d8205784d2fe4f67f2682f1208d2077fec357f332acc370f630"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "4e89107e6d81931530731f231aadb2f2b9d2fbe5c5a9078c0d5e38241b3bab55"
 metafile = true
 
 [[files]]
