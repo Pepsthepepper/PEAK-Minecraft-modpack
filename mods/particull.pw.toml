@@ -1,0 +1,13 @@
+name = "PartiCull"
+filename = "particull-1.20.x-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "7d33fd07cb4c4917e737ea5b1c051b30ccd4a4eb573ce3df788008382cdb0b89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6618675
+project-id = 1280903

@@ -1,13 +1,13 @@
 name = "Particle Core"
 filename = "particle_core-0.2.6+1.20.1+forge.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RSeLon5O/versions/bqPuw9aZ/particle_core-0.2.6%2B1.20.1%2Bforge.jar"
 hash-format = "sha256"
 hash = "75fa3afb8ca5b0805c4be8de814dbb962dd4863538c0a1c2cc22d38610743c7b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "RSeLon5O"
-version = "bqPuw9aZ"
+[update.curseforge]
+file-id = 6427560
+project-id = 985426

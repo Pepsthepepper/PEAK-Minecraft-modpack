@@ -1,0 +1,98 @@
+{
+  "config_version": "1.0.19",
+  "config_datetime": "2025-07-30_15-52-56",
+  "general": {
+    "min_structure_distance_from_world_center": 0,
+    "disable_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 4.2
+  },
+  "structures": [
+    {
+      "name": "ba_bt:land_tower",
+      "is_disabled": false,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": true,
+      "biome_check_distance": 0,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#is_river",
+        "#is_ocean",
+        "#is_beach"
+      ],
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [
+        "minecraft:mushroom_fields",
+        "minecraft:deep_frozen_ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:cold_ocean",
+        "minecraft:deep_ocean",
+        "minecraft:ocean",
+        "minecraft:deep_lukewarm_ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:warm_ocean",
+        "minecraft:stony_shore",
+        "minecraft:swamp",
+        "minecraft:mangrove_swamp",
+        "minecraft:snowy_slopes",
+        "minecraft:snowy_plains",
+        "minecraft:snowy_beach",
+        "minecraft:grove",
+        "minecraft:desert",
+        "minecraft:jagged_peaks",
+        "minecraft:stony_peaks",
+        "minecraft:frozen_river",
+        "minecraft:river",
+        "minecraft:sunflower_plains",
+        "minecraft:sparse_jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:deep_dark"
+      ]
+    }
+  ],
+  "structure_sets": [
+    {
+      "name": "ba_bt:land_tower",
+      "salt": 121144999,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 98,
+      "separation": 88
+    },
+    {
+      "name": "ba_bt:ocean_tower",
+      "salt": 153511499,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 69,
+      "separation": 65
+    },
+    {
+      "name": "minecraft:buried_treasures",
+      "salt": 1,
+      "frequency": 0.01,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 1,
+      "separation": 0
+    },
+    {
+      "name": "minecraft:mineshafts",
+      "salt": 1,
+      "frequency": 0.004,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 1,
+      "separation": 0
+    },
+    {
+      "name": "minecraft:strongholds",
+      "salt": 1,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 0,
+      "separation": 0
+    }
+  ]
+}

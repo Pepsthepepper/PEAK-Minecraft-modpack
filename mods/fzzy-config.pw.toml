@@ -3,11 +3,11 @@ filename = "fzzy_config-0.7.1+1.20.1+forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hYykXjDp/versions/OOPrShvY/fzzy_config-0.7.1%2B1.20.1%2Bforge.jar"
 hash-format = "sha256"
 hash = "bbf74dc5241b58fa1521621101fcad9d4639d8a87e8f0290ecd99d9fb3d83db7"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "hYykXjDp"
-version = "OOPrShvY"
+[update.curseforge]
+file-id = 6769263
+project-id = 1005914

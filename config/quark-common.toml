@@ -1350,7 +1350,7 @@
 	Crabs = true
 	Forgotten = true
 	Foxhound = true
-	Shiba = true
+	Shiba = false
 	Stonelings = true
 	Toretoise = true
 	Wraith = true
@@ -1389,12 +1389,12 @@
 
 	[mobs.foxhound]
 		#The chance coal will tame a foxhound
-		"Tame Chance" = 0.05
+		"Tame Chance" = 0.1
 		"Foxhounds Speed Up Furnaces" = true
 
 		[mobs.foxhound.spawn_config]
 			#Allowed values: (0,)
-			"Spawn Weight" = 30
+			"Spawn Weight" = 50
 			#Allowed values: [1,)
 			"Min Group Size" = 1
 			#Allowed values: [1,)
