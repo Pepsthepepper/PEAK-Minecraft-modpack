@@ -38796,11 +38796,6 @@ hash = "f37a3e8745852a98a6dcef8d1b7460be40831b40d015992f104749ed56de0033"
 metafile = true
 
 [[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "84eaf41d59ac6769b174ead6c14c9303110495613d1b749bd61d3d671771a04d"
-metafile = true
-
-[[files]]
 file = "mods/the-zoomify-mod.pw.toml"
 hash = "a59693db27157777697ffc7fc7948f228759fb8f5aa51d574dc318d8beea4025"
 metafile = true
