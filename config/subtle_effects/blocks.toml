@@ -73,10 +73,10 @@ lavaFizzSteam = true
 replaceCampfireFoodSmoke = true
 spongeDryingOutSteam = true
 spawnLogic = "BRIGHTNESS"
-steamingWater = false
-boilingWater = false
-steamingWaterCauldron = false
-boilingWaterCauldron = false
+steamingWater = true
+boilingWater = true
+steamingWaterCauldron = true
+boilingWaterCauldron = true
 steamingThreshold = 11
 boilingThreshold = 13
 

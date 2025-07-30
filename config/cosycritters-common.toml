@@ -5,7 +5,7 @@
 	enableBirds = true
 	#Maximum number of birds that can exist at once
 	#Range: 0 ~ 100
-	maxBirds = 10
+	maxBirds = 30
 	#Enable moth particles
 	enableMoths = true
 	#Maximum number of moths that can exist at once

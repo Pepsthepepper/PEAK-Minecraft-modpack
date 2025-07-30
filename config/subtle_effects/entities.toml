@@ -8,7 +8,7 @@ improvedDragonFireballTrail = true
 commandBlockMinecartParticles = "ON"
 endCrystalParticles = true
 minecartSparksDisplayType = "DEFAULT"
-minecartSparksDensity = 0.5
+minecartSparksDensity = 0.20196079
 slimeTrails = true
 magmaCubeTrails = true
 replaceSlimeSquishParticles = true
@@ -17,9 +17,9 @@ replaceSpellCasterParticles = true
 ironGolemCrackParticles = true
 spectralArrowParticles = true
 wardenDeathSoulParticles = true
-xpBottleParticlesDisplayType = "DEFAULT"
+xpBottleParticlesDisplayType = "VANILLA"
 xpBottleParticlesDensity = 10
-eggSmashSoundVolume = 0.5
+eggSmashSoundVolume = 0.14313726
 eggSplatParticles = true
 freezingSnowFlakes = true
 featherTicklingPandas = true
@@ -74,11 +74,11 @@ heartbeatVolume = 1.0
 heartBeatingWaitTime = 3
 
 [dustClouds]
-scale = 2.0
+scale = 1.0
 alpha = 1.0
-preventWhenRaining = false
+preventWhenRaining = true
 flyIntoWall = true
-lessViewBlocking = false
+lessViewBlocking = true
 playerFell = true
 mobFell = true
 landMaceAttack = true
@@ -94,7 +94,7 @@ sounds = true
 extinguishSteam = true
 
 [itemRarity]
-particlesDisplayType = "ON"
+particlesDisplayType = "OFF"
 particleColorType = "NAME_COLOR"
 mixedColorName = true
 useItemBorder = true

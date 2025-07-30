@@ -417,6 +417,17 @@
         "y": "NONE"
       },
       "sync": "youkaisfeasts:info_tile"
+    },
+    "zoomify:zoom_level": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "zoomify:zoom_level"
     }
   }
 }

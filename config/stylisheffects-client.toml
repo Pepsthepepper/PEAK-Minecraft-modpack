@@ -77,7 +77,7 @@
 		screen_side = "RIGHT"
 		#Offset on x-axis.
 		#Range: > 0
-		offset_x = 3
+		offset_x = 4
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
@@ -166,11 +166,11 @@
 		#Display effect duration more compact, allows for always showing duration, even when it is very long.
 		compact_duration = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
-		quality_border = false
+		quality_border = true
 		#Hide infinite symbol shown for an effect duration that is too long to fit.
 		hide_infinite_duration = false
 		#Show duration for ambient effects.
-		ambient_duration = false
+		ambient_duration = true
 		#Top corner to draw effect amplifier in, or none.
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
 		effect_amplifier = "TOP_RIGHT"
