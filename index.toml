@@ -38451,11 +38451,6 @@ hash = "ad074b983de6f7537a668682e64bff2c0d023d43793b0ad1e434c4b1abb36b27"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "044fd54233ff2c5470e6d15531095b847df816091d6719a4d899d138a2f92810"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "add17153224b5d8205784d2fe4f67f2682f1208d2077fec357f332acc370f630"
 metafile = true
@@ -38488,6 +38483,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a2b9f349d76aceaea082d2522351aad4d4014fe8752c4513c35ef8c97f76a165"
+metafile = true
+
+[[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "57d9cc435a21d67dc50a5610fa5f4587d8f8375d17805eceecc2fa95d3b2392a"
 metafile = true
 
 [[files]]
