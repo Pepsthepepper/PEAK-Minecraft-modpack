@@ -73,6 +73,14 @@ file = "config/betterdungeons-forge-1_20.toml"
 hash = "946ce267d09bcedf40defb277de8b64ee72b37118230d47b20eabf55aa32f91a"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "bd35a53e012684f66a77dd7a6e659961675cac704d25171a6af427839092b9b4"
+
+[[files]]
+file = "config/betterfpsdist.json"
+hash = "7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017"
+
+[[files]]
 file = "config/betterworldloading20.json"
 hash = "f610df0d212f97241d8d80f3ca5186e517acc32fd750ca71d07ed8b410b3e727"
 
@@ -36845,6 +36853,10 @@ file = "config/chimes-common.toml"
 hash = "c4093536d06ebf10b96ce5a40deb0801bca9678cd89a8d9342a8d93f762b7761"
 
 [[files]]
+file = "config/chloride-client.json"
+hash = "7d579f9fbccedccb32b83d88e81f82ee3715baee02c0423c3ce4756507e1a3dc"
+
+[[files]]
 file = "config/clayworks-common.toml"
 hash = "e95c94ca00a4d75e512aa21c77ebd94750d323123f08e6bdd831bebf025269b0"
 
@@ -36870,7 +36882,7 @@ hash = "37f3bbf0adb04001cfb813938d4ace3c4d8f62021dbffecc562f2c1ebcfae56c"
 
 [[files]]
 file = "config/cosycritters-common.toml"
-hash = "164e23a91b8a724e57f65811e557b36ab6f76f83862ddc858f2df1276f94f9ae"
+hash = "fcc1241b201cd05488b09cc45938e0c8a0a4ea27bc3fe84493717ca48f6585a8"
 
 [[files]]
 file = "config/create-client.toml"
@@ -37049,6 +37061,14 @@ file = "config/fireproofboats-client.toml"
 hash = "944b90270ad9b38eb4ce4d608ec93576a62f5eec0b1f1776235367dd8e2cb70e"
 
 [[files]]
+file = "config/flerovium.json"
+hash = "4dafe93b4fc05d8bd626069d57f86f08e6571d8b3c601f5c514c3553ab697c87"
+
+[[files]]
+file = "config/fluidium-common.toml"
+hash = "b0c304c9367bbf9694b5ec4c8dafa065657693f8d47bb1ebbd4113b59595652f"
+
+[[files]]
 file = "config/flywheel-client.toml"
 hash = "a0c80c65d1a1ff071b00f52a9fc42a81d78ac63b4d7112b9ff2473bde5d24815"
 
@@ -37113,6 +37133,10 @@ file = "config/fruitfulfun-common.yaml"
 hash = "155838f0c1602aea920c859490b1235520fdce910b21ea451f5b037ea8e988e0"
 
 [[files]]
+file = "config/ftbqoptimizer.snbt"
+hash = "eeb91f92d91cd3f7f6df8a7fff515d798da504031d0a23beaea689fddfa080ab"
+
+[[files]]
 file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
@@ -37165,6 +37189,10 @@ file = "config/hourglass-client.toml"
 hash = "23c83d21ba514f9dd1aed6a7d4641c1fe0ed48c5a46ce6f802182cce616626f4"
 
 [[files]]
+file = "config/icterine.yml"
+hash = "c5f80c76ddfd2fe281b3d077f91ede0d985f27f4fd592217b97fb950835e3dcd"
+
+[[files]]
 file = "config/illageandspillage-client.toml"
 hash = "b88e48939ed588a0d11d6abb022abdc65356ba20fe1f481989e51d9eb40d76a6"
 
@@ -37210,11 +37238,11 @@ hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2"
+hash = "e43119725b2b6926ded5ab02259bb651ec734421ad4f4f549682ecb11bfd5aac"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "3aedf6c09d7c8671c1c9e697f7366578b4e7e00c0506bb8493067f0bb970eb59"
+hash = "b38b5b66120dffe60a8ee43df99ed4409eab3d3e004370b9030bff189213b5f7"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -37309,6 +37337,14 @@ file = "config/modernworldcreation/config.txt"
 hash = "d1bd56ec12c026110b417a9fc8aadbb5d65ae34ff66e6ce796e2decb6003ba9b"
 
 [[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "f2a1b5e8545b2e0bf1e9905497f4c7622dd691fcdc7ee62f82c1d777c04c73ac"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "bfc1860899ada3d33561ae91d25b1a1d67486b5a7cc60d574e16340fb0db867a"
+
+[[files]]
 file = "config/moonlight-client.toml"
 hash = "a0f0fb1dd0e663e7fad9cb295885a5b8838e4f8bcf9edb10fc038928398902f6"
 
@@ -37342,7 +37378,11 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "f9600173802c37a86c9a1afe044a3def374febd1071ffa831302780cd4b224f1"
+hash = "651434341fa1303b0e1720aa8c04f598c21d6768e655b14c9732a0fdd465c4e2"
+
+[[files]]
+file = "config/optileaves.json"
+hash = "03bb2600571f5b53043becdec8d58552fde2b95243ffae2d05ac013c1fd066b8"
 
 [[files]]
 file = "config/overgeared-client.toml"
@@ -37359,6 +37399,10 @@ hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
 [[files]]
 file = "config/particle_core_disabled_optimizations.json"
 hash = "75fc5b71df6c207879fdf6c1ba2f2c63fb770295bea1055d3d505e775be33c88"
+
+[[files]]
+file = "config/particull-client.toml"
+hash = "c5e50c5b219b485f511ccb3e29beb7eb5b5fb2a58aec3935707f86e431c89fcd"
 
 [[files]]
 file = "config/personality-client.toml"
@@ -37398,7 +37442,7 @@ hash = "5f9370b455e57d7d729699a28622476789e065a89fc895923d7ee77333687c8d"
 
 [[files]]
 file = "config/raised.json"
-hash = "d039798a613405cda48b73de3a8666ce5a10ee7f97ab2d9b9eb6492845b536ec"
+hash = "483c9379f4d39fa7e8a707572240ed80be454601ff427ebf34ce923931251ca5"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -37482,7 +37526,7 @@ hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
 file = "config/structurify.json"
-hash = "6d532e90e4a15ad7320484a9d6185057494828147c7ad0073240722fb02c93ab"
+hash = "d50b729b31afa2e41bb01aadc047fbff2951668df8aa6d50dd538bcdeeaffb4e"
 
 [[files]]
 file = "config/structurify/structurify_backup_2025-07-30_15-49-33.json"
@@ -37517,16 +37561,36 @@ file = "config/structurify/structurify_backup_2025-07-30_15-59-29.json"
 hash = "e554ff4a79c88f55b7585ce6ab741949085f4d8b623cef4fdd090bc0ab8d5196"
 
 [[files]]
+file = "config/structurify/structurify_backup_2025-07-30_17-53-39.json"
+hash = "6d532e90e4a15ad7320484a9d6185057494828147c7ad0073240722fb02c93ab"
+
+[[files]]
+file = "config/structurify/structurify_backup_2025-07-30_17-57-01.json"
+hash = "d38f33a175545a56b8498c3f2b46346472e0a28b341ebc8fdbc5a171010d92fd"
+
+[[files]]
+file = "config/structurify/structurify_backup_2025-07-30_18-01-56.json"
+hash = "c7b2c4c2f1387af97a66c49b6711882ed9f509459588ed4d0d5057eb5c218465"
+
+[[files]]
+file = "config/structurify/structurify_backup_2025-07-30_18-02-55.json"
+hash = "17fc2c0c20c8571ac32f53b055a7456d737173cbea7f00ec5e25b7771e73e6af"
+
+[[files]]
+file = "config/structurify/structurify_backup_2025-07-30_18-03-24.json"
+hash = "9a2489611b12efdd8f38b5329da320499c9e4e77f7e73ced869849a97f72b377"
+
+[[files]]
 file = "config/stylisheffects-client.toml"
-hash = "548023798204b14017d291039b9bb6fb0f2157795d04b4c82e143c32832065f0"
+hash = "521d524ce01c5f995317fb0b7b936f6b7802132abd34c463dcfe2849305270fe"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
-hash = "09b617b09ac0637adf4fd999ac8288564c6ab489513aefab69e3abf403cb48c7"
+hash = "9b799f50f6bc3e85c2556190e1eea3dc76eadc94f7962870bb945dbdc03481c0"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "70cb5a6b0d8d6832c7f50511f4f86a90fa3b2359931a0520127d141a6051730e"
+hash = "09e81737b27da688cfa2f18993c524b7a1c108587dc2e3aa1b283120a8a2950f"
 
 [[files]]
 file = "config/subtle_effects/environment.toml"
@@ -37538,7 +37602,7 @@ hash = "bf8a2cfbf5c1dd79f07e233ffae9195b23af6a138198fcd3059b984295fd4fb0"
 
 [[files]]
 file = "config/subtle_effects/items.toml"
-hash = "889dc45e8b0da6bd2883cc52a1d95cc97b0e7df6c2a5d9adaeb49f018b525cca"
+hash = "9c5a6e6d1fc2ad40045b5ce911e64dd2f68bc16421ad1612bb78b2f1d9afed16"
 
 [[files]]
 file = "config/swampier_swamps-client.toml"
@@ -37626,11 +37690,11 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "30c6935c6968bc945f8ff2fbc8cd6a593fcdbe2aebf5cd9cfda1e0de40070685"
+hash = "2f4feed3a863a0bb2688e4a37d3e09f5916df7dbf16db49ccf13315038350dca"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "a76e01c0eff40d1f8f3103d13f8078a0280391e052239196f2b52f128e0143ad"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -38903,6 +38967,41 @@ file = "packwizignore.txt"
 hash = "92f1054cb1aecbe9eb6a8a13a99c9c75c0596d1ddcfe3d60b65eede52f49d594"
 
 [[files]]
+file = "resourcepacks/armory-conglomery.pw.toml"
+hash = "4ff5283ce16b333e677ed73d86d9c7164dbcc900c3f2236a441039447f0d20de"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-andesite-chests-compat.pw.toml"
+hash = "80587e5bd42d9f55a6c5240fda7545337c6d0a47782f69d7eae26200d492a29c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-touch-ups.pw.toml"
+hash = "ecbc86078aa0aafd5ed16cb67933d9a401e924990624597adc262e5ed600079e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-world-of-color.pw.toml"
+hash = "e16e71f89dea1456b690f0fd9389f42c887f383e2a367a54ab133bbb36ac379e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "46c122176fdeb1c76246755aa7bfed4a5da23603a33343fbee41caedc96c07df"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "933ccde20cb81d3db48815f761333247da058e309919a6832baedede4249aff8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandala-gui-dark-mode-utopia-extension.pw.toml"
+hash = "0ad4666c46848323c9468038fffc298abe953824e4949ecda973329082e98a93"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xaeros-map-frame.pw.toml"
+hash = "b20208df8d57708b94a3ba83938b2152c4b54f1d3a9e41f8f0adca1f0be4a26a"
 metafile = true

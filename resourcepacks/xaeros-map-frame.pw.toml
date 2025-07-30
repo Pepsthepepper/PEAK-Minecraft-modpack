@@ -1,0 +1,13 @@
+name = "Xaero's Map Frame"
+filename = "§eXaero's-Map-Frame-Hard.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KXiQUWqJ/versions/Jdb1VJBa/%C2%A7eXaero%27s-Map-Frame-Hard.zip"
+hash-format = "sha512"
+hash = "6515d82545e6cd80308130ff3267f15a790c233c27873185258795fe142c41dfecafa423afa9c5fe147c93ace358fd0e8ae664c41be2c3747516046b8cc45bea"
+
+[update]
+[update.modrinth]
+mod-id = "KXiQUWqJ"
+version = "Jdb1VJBa"

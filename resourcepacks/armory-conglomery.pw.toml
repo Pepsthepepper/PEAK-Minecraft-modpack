@@ -1,0 +1,13 @@
+name = "Armory Conglomery"
+filename = "armory-conglomery-v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f73fe1b86756ebabc2a8260cd48d49e6184c9763"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5590102
+project-id = 892893

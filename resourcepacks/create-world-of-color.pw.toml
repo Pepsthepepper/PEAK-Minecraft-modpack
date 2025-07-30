@@ -1,0 +1,13 @@
+name = "Create: World of Color"
+filename = "Create World of Color.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b983f608d5ba57092e206330d8d2a1f41898748a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6460903
+project-id = 1133968
