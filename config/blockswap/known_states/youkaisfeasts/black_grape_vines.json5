@@ -1,0 +1,1763 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "0"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "1"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "2"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "3"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "4"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "5"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "6"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "7"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "8"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "x",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "x",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "x",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "x",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "true",
+			"axis": "z",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "true",
+			"axis": "z",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "true",
+			"left": "false",
+			"axis": "z",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"right": "false",
+			"left": "false",
+			"axis": "z",
+			"age": "9"
+		},
+		"Name": "youkaisfeasts:black_grape_vines"
+	}
+]

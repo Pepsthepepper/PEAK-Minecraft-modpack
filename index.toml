@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Zips/PEAK-0.0.1.zip"
-hash = "4b216048fd7624872c8df0da6c8e3ad9c79f1d85e4d7cdbbdcbef76687a62c2c"
-
-[[files]]
 file = "config/configs here.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -333,6 +329,11 @@ hash = "6d8b68ef4afc6fa8fc6d9aa771be7f43934ab0d8a83c5cfc3f7e38f73ca0be08"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "b3f89cbb1789f86dfe52f10a31fdfcea64a9474715c8170f218ae35fc9dcaf92"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "4d5343b76b5314f39bcd2514002b702ddf4aaf0e50965d25a09c20957d281872"
 metafile = true
@@ -440,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "2ef8153a7db3458a471647f91aca5661d6442e1e806fb1a4c2dc1d75fd8a369a"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "2f23491c650ffa8f2758ea80e98da56e9a6791551fa5dc9eb995434a55f58785"
 metafile = true
 
 [[files]]

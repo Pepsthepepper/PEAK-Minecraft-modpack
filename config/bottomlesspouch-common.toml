@@ -1,0 +1,17 @@
+
+["Config for Bottomless Pouch"]
+	#Allow enderman, piglins, brut piglins and ghasts drop Ender Shards and Nether Shards
+	dimentionCrystalsDrop = true
+	#Chance for enderman drop End Shard
+	#Range: 0 ~ 100
+	endermanDropChance = 1
+	#Chance for Piglin drop Nether Shard
+	#Range: 0 ~ 100
+	piglinDropChance = 1
+	#Chance for Brute Piglin drop Nether Shard
+	#Range: 0 ~ 100
+	brutePiglinDropChance = 5
+	#Chance for Ghast drop Nether Shard
+	#Range: 0 ~ 100
+	ghastDropChance = 2
+

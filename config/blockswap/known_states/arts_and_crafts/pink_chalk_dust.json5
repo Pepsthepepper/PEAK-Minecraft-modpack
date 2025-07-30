@@ -1,0 +1,3569 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "0"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "1"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "2"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "3"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "4"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "5"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "6"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "7"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "8"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "9"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "10"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "11"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "12"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "13"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "14"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "15"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "16"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "17"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "18"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "19"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "20"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "21"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "22"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "23"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "24"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "25"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "26"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "27"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "28"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "29"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "30"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "31"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "north",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "north",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "east",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "east",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "south",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "south",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "west",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "west",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "up",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "up",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "true",
+			"facing": "down",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"glow": "false",
+			"facing": "down",
+			"chalk_pattern": "32"
+		},
+		"Name": "arts_and_crafts:pink_chalk_dust"
+	}
+]

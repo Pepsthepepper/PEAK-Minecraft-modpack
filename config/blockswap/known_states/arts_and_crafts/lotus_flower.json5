@@ -1,0 +1,293 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "north",
+			"age": "0"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "south",
+			"age": "0"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "south",
+			"age": "0"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "west",
+			"age": "0"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "west",
+			"age": "0"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "east",
+			"age": "0"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "east",
+			"age": "0"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "north",
+			"age": "1"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "north",
+			"age": "1"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "south",
+			"age": "1"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "south",
+			"age": "1"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "west",
+			"age": "1"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "west",
+			"age": "1"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "east",
+			"age": "1"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "east",
+			"age": "1"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "north",
+			"age": "2"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "north",
+			"age": "2"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "south",
+			"age": "2"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "south",
+			"age": "2"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "west",
+			"age": "2"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "west",
+			"age": "2"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "east",
+			"age": "2"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "east",
+			"age": "2"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "north",
+			"age": "3"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "north",
+			"age": "3"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "south",
+			"age": "3"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "south",
+			"age": "3"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "west",
+			"age": "3"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "west",
+			"age": "3"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "true",
+			"facing": "east",
+			"age": "3"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sheared": "false",
+			"facing": "east",
+			"age": "3"
+		},
+		"Name": "arts_and_crafts:lotus_flower"
+	}
+]

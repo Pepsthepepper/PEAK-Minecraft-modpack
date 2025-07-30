@@ -1,0 +1,102 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "tray",
+			"facing": "north"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "handle",
+			"facing": "north"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "none",
+			"facing": "south"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "tray",
+			"facing": "south"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "handle",
+			"facing": "south"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "none",
+			"facing": "west"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "tray",
+			"facing": "west"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "handle",
+			"facing": "west"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "none",
+			"facing": "east"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "tray",
+			"facing": "east"
+		},
+		"Name": "youkaisfeasts:kettle"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"support": "handle",
+			"facing": "east"
+		},
+		"Name": "youkaisfeasts:kettle"
+	}
+]
