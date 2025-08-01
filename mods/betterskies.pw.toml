@@ -1,0 +1,13 @@
+name = "Better Skies"
+filename = "betterskies-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K9Uiw3me/versions/tUVwr8ZA/betterskies-1.0.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "a1268eaf4f8f0032eef0d1070308adb089f3d8a41712e3742b60520ac9072dad31ff6e51da33d7c1884287b4e1cfb8784a5a776c670de8568c7457ef0b9dccc5"
+
+[update]
+[update.modrinth]
+mod-id = "K9Uiw3me"
+version = "tUVwr8ZA"

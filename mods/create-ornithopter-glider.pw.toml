@@ -1,0 +1,13 @@
+name = "Create: Ornithopter Glider"
+filename = "createornithopterglider-0.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A30Sq5Gt/versions/h3tsAkkc/createornithopterglider-0.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "989e9456497f1efde12841bce74a2ca6fca0004fae8751fe81c26b0a3949b3c09421d2a4389fffc81751d199d97dcf10209d55198dd37fb3e9901566c12f6d9e"
+
+[update]
+[update.modrinth]
+mod-id = "A30Sq5Gt"
+version = "h3tsAkkc"

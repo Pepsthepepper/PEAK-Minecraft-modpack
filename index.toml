@@ -37489,6 +37489,10 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
+
+[[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "deeae0ce92ad149ccbebf4d1e6b92343339bc9a0beed37a2f91e9d661f9535fa"
 
@@ -37815,6 +37819,11 @@ hash = "c9326691274f1583c4e9b07d20f1e5bfc6dc4efefc18296ada635555c54a54bf"
 metafile = true
 
 [[files]]
+file = "mods/betterskies.pw.toml"
+hash = "feb16185ef0f660417bb0ea04fde5225fad7e3761530b7efa23b6db307721dc2"
+metafile = true
+
+[[files]]
 file = "mods/block-swap.pw.toml"
 hash = "fc17ae34cc0510fb3bbec1cc52b60244f29a280aed0bca7ebf8c2e9357c59de6"
 metafile = true
@@ -37990,6 +37999,11 @@ hash = "498dfe65ec5fd57309b28bafbed8e8967722c361b1422fa6ff9b6b68faa76b57"
 metafile = true
 
 [[files]]
+file = "mods/create-ornithopter-glider.pw.toml"
+hash = "dbf7ad1b6c6f0f6a2b46d5f73835263c44065093744aa5be18f0b3228ce93797"
+metafile = true
+
+[[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "af0fc7fd4d1d5f7ae8002af2a90d11f1c5155cb0b061fd94c388dd45bade3f0e"
 metafile = true
@@ -38007,6 +38021,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "d5b3fa3c59382dfbcebaee612c7e19e18d9d49eb8191e6a10082e27735cafd69"
+metafile = true
+
+[[files]]
+file = "mods/creatures-and-beasts-the-unofficial-port.pw.toml"
+hash = "643235beda72481eb445389713edc8245c0f03e3954aeca35850e666517c543a"
 metafile = true
 
 [[files]]
@@ -38425,6 +38444,11 @@ hash = "ec23b33a78e45495f76c840d63a67bcc5c9982d36293d43fa1c1fa3630235ac3"
 metafile = true
 
 [[files]]
+file = "mods/jungle-treehouse-village.pw.toml"
+hash = "3c3c08719b5f80a392e535cb708b163bfe2667293cc74d20966e42bbb9d05f2f"
+metafile = true
+
+[[files]]
 file = "mods/kaleidoscope-cookery.pw.toml"
 hash = "e9db19e3ec96f8158c989986a85e6fc15a016e2d07af275a0fabd2a5b413cdb5"
 metafile = true
@@ -38437,6 +38461,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "2b815e905b26eb506c7f835dde6e23abddcbe3c7c9be3a4d11d9c13ad584737e"
+metafile = true
+
+[[files]]
+file = "mods/koopas-critters.pw.toml"
+hash = "98bf2d6d62386fb19ac70ebf379087549d73bc86bbddfb62ed2d85b185211fc1"
 metafile = true
 
 [[files]]
@@ -38785,6 +38814,11 @@ hash = "3772de8b3d364649fd1c1d133532123f5994c61e2d77412754301ec68bbc1dfc"
 metafile = true
 
 [[files]]
+file = "mods/species.pw.toml"
+hash = "bb5cfbed4344afc854ae902c07618a1e6f83c686356c72837495bcef26bbc151"
+metafile = true
+
+[[files]]
 file = "mods/spelunkers-charm-ii.pw.toml"
 hash = "48d9d24a9b0ca3421c42db57b1dd649d859211c25c1fc2a2dbffc95b8e0e85a1"
 metafile = true
@@ -38912,6 +38946,11 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "fcb02c713798b0830ffe6fd7cb49853cca694c22d6f3fe010c1717ad22b400b0"
+metafile = true
+
+[[files]]
+file = "mods/vital-herbs.pw.toml"
+hash = "cc5f90fda179a882ecc76a7ebcfe6c5b65fb958e7a2cd306b0e194ede750abdf"
 metafile = true
 
 [[files]]
