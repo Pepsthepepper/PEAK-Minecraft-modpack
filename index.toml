@@ -38304,11 +38304,6 @@ hash = "6d52549f21289d08caf40af0a949faf074f487b43ff2e061d32504efff3be369"
 metafile = true
 
 [[files]]
-file = "mods/gensokyo-delight-youkais-feasts.pw.toml"
-hash = "d079518a2dec5be6ab474ba0080d8ffb9f7bcffe480ee9422b941168fd35351f"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "d1f86e11712a466f622299861295894104c70c39975f0e85a955ef149aa6ceba"
 metafile = true
@@ -38654,11 +38649,6 @@ hash = "fa0269f04f3b8593693dea03b0a9533c9247715d906da9516d51d0998bfd3d33"
 metafile = true
 
 [[files]]
-file = "mods/oceans-delight.pw.toml"
-hash = "3bcdf60c24882b1a562bb09b96972b8948f4f96178896c6dea734f958eec9107"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4c63979a30d11c4dd83e50c67e8b4a386139fbbd010d594198a009ddab65731d"
 metafile = true
@@ -38671,11 +38661,6 @@ metafile = true
 [[files]]
 file = "mods/optileaves.pw.toml"
 hash = "feb9ae3a03c607f69b7a7534a55027f0e1f4d68523b2f3a0838e74a497fd79cd"
-metafile = true
-
-[[files]]
-file = "mods/overgeared.pw.toml"
-hash = "5d04767bd339cd90326fbf276eb4ca352c71503446a303871f06f5a0690a2316"
 metafile = true
 
 [[files]]
@@ -38839,11 +38824,6 @@ hash = "eda3e4e2c236c437ab65767908cf41e2478eae7bdc6216df1af2d73c04fdde8e"
 metafile = true
 
 [[files]]
-file = "mods/stoneworks.pw.toml"
-hash = "2108ba81a7fbd94951f2b177c12933680e5607f93487172209f34f213895e8a8"
-metafile = true
-
-[[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
 hash = "486a22019505c3f30e3908113a85bc1d72b9a5ca1227f7959420f08e992f6b23"
 metafile = true
@@ -38936,11 +38916,6 @@ metafile = true
 [[files]]
 file = "mods/unusual-furniture.pw.toml"
 hash = "57ea46bf284036449920edc5c943b6d197e4f604dd44a6a7d1d17a68b2d0be01"
-metafile = true
-
-[[files]]
-file = "mods/variants-and-ventures.pw.toml"
-hash = "30c3ec2c0282cf9fe7f21debeeeb4e7d69fa14f53221613ff1022c9dd09ae562"
 metafile = true
 
 [[files]]
