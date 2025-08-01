@@ -1,0 +1,13 @@
+name = "Fang's Textiles and Trinkets"
+filename = "textiles_and_trinkets-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18f0533c2602f838767bf4be45e5206f2bc09b24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6764902
+project-id = 1303639

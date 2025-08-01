@@ -37744,6 +37744,11 @@ hash = "6056c73b9ef97d432ca1e01c21f113de4519ec1d6247ae1d091b9706e6d9cd15"
 metafile = true
 
 [[files]]
+file = "mods/alloy-smelter.pw.toml"
+hash = "bcf4bd5c8b2d70ee657c667670cd175d645de9a04bba960d042af3f4c6f244bd"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fe47607a5198b551ef25dc6be113df40b0b154b043a270f86adda8caa7be816a"
 metafile = true
@@ -37949,6 +37954,11 @@ hash = "3ef721aaab0d2c424e8cdc211010da660f0d51cf27d7f74fe2c7119f3787fa9c"
 metafile = true
 
 [[files]]
+file = "mods/companions-mod.pw.toml"
+hash = "27497b6b919603b1fcf262bc803dd4dee80942d04fd4172db16b733ccec011bb"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "21254d2f33cfc9b90b304a3aeacff5572cf78729c0fb93a3103a80a445f7c791"
 metafile = true
@@ -38001,6 +38011,11 @@ metafile = true
 [[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "081e8be03c0704da7a9c9bf59b6abbdffebeb6ae340b0c76615574ed0c4620a0"
+metafile = true
+
+[[files]]
+file = "mods/create-cultivation-craft.pw.toml"
+hash = "0ba0dde773c8ef08b3e11ee2af19da62f07a0fcf3451a65596c4c8a6f7a58169"
 metafile = true
 
 [[files]]
@@ -38204,8 +38219,18 @@ hash = "2ef8153a7db3458a471647f91aca5661d6442e1e806fb1a4c2dc1d75fd8a369a"
 metafile = true
 
 [[files]]
+file = "mods/expansion-more-golems.pw.toml"
+hash = "7a6ab4200efdd78c0a261b7dd8d3c6f56ba6c24ca7f487c2bad9f5baea27fd8b"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "61019d9d3648ba9dcdd91f0f1a55ceb924e15cc9071153c75403eafd80f7d174"
+metafile = true
+
+[[files]]
+file = "mods/fangs-textiles-and-trinkets.pw.toml"
+hash = "895529c3f0c30f29b1092fd349917a88f513dc8ccb48b31e5ec291c5c3103e07"
 metafile = true
 
 [[files]]
@@ -38310,7 +38335,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "bfe1b9ef08ea1e5e3a49a449105d91718a74cf10628964c86897d7ae5fac20be"
+hash = "3e1eb9740fada46d463ae8f5e1f2cf24d5a85532356f7d5173a7c23a0dd8fb53"
 metafile = true
 
 [[files]]
@@ -38404,6 +38429,11 @@ hash = "22c0e79f53db9a85fda8cd7c77c4ae18e4547bd0a3181fe52634eb5b13383207"
 metafile = true
 
 [[files]]
+file = "mods/immersive-machinery.pw.toml"
+hash = "f45e371916edd3de073a9733e494c1dc14fc10622330e78724f89333a9de7a04"
+metafile = true
+
+[[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "dd602d864f7f9f5874ba8b90bdd0c7a13b9cebe12bc693806fb121e15d64ac10"
 metafile = true
@@ -38461,6 +38491,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "36385812d5483cb22fab8254ea0313b66aba90aec17bd4306ed85de4a14cf3fb"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "93c1a321992b436b21e60aad7641bb57f217fa9be563f8ca3ddb0dc38ec232eb"
 metafile = true
 
 [[files]]

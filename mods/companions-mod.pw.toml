@@ -1,0 +1,13 @@
+name = "Companions!"
+filename = "companions-forge-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0f26356b38fd0aa3b36f9dacf7c24ec5c02f760"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6826779
+project-id = 1300341

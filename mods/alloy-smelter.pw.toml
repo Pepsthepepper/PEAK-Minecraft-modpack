@@ -1,0 +1,13 @@
+name = "Alloy Smelter"
+filename = "alloy_smelter-forge-1.20.1-1.1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1423899f393e8ab93afda7b083b2c5e488bb4cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6806040
+project-id = 1313083

@@ -1,0 +1,13 @@
+name = "Expansion: More Golems"
+filename = "moregolems-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f8caf62833f65a9d16ff5afa23f6f3103c6cf6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6830994
+project-id = 1300348
