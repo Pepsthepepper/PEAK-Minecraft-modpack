@@ -1,13 +1,13 @@
 name = "Structurify"
-filename = "structurify-forge-1.0.19+mc1.20.1.jar"
+filename = "structurify-forge-1.0.20+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/C1STKyUp/structurify-forge-1.0.19%2Bmc1.20.1.jar"
-hash-format = "sha256"
-hash = "142f0b2d0328ece1798c71056bee3360013d149c1fb1798e1f51c8b3ddecacfa"
+url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/U0qJhWdM/structurify-forge-1.0.20%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "f47c37904e20db5a6d2ce6f28833569e2fd037574b59d9fa2483dcf633a2b0465224acff1b43661f7289ae7e014d493e1b2b391bc10ee9c47e3b9b46f0ea56a8"
 
 [update]
 [update.modrinth]
 mod-id = "yz7AM2zx"
-version = "C1STKyUp"
+version = "U0qJhWdM"

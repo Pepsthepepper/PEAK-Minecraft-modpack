@@ -37790,7 +37790,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "1e9ff22a75786ea49a4b72fae6e82bf2c455b3edceab5c75e6a284132c64ef0b"
+hash = "a14ca9db0af0b0c939e0969566c30355eff81d7395b54259e02eb135553a784f"
 metafile = true
 
 [[files]]
@@ -38114,6 +38114,11 @@ hash = "9ef1d5c28460db92fc15daf4d6c38a27e85cd4b8fbcdb38057ede8cfb829df8e"
 metafile = true
 
 [[files]]
+file = "mods/duclib.pw.toml"
+hash = "1ece41f7838ee51ac3dedbf820a033e02406041bb07c4b9a7fc0a0de486e14e3"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "4d5343b76b5314f39bcd2514002b702ddf4aaf0e50965d25a09c20957d281872"
 metafile = true
@@ -38146,6 +38151,11 @@ metafile = true
 [[files]]
 file = "mods/eldritch-end.pw.toml"
 hash = "d0969b9d0925d738e1385b1d79532842cc49829f95e868dc6fd3de94da098b0d"
+metafile = true
+
+[[files]]
+file = "mods/elysium-api.pw.toml"
+hash = "2c0f573079d240b04d02a27f6c166a0cc683c8cb58fb4708c5c407e0b6c2a3f1"
 metafile = true
 
 [[files]]
@@ -38310,7 +38320,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "4466c5bf9345d045b3545ecbe43d0bb123ae324bde0a094785fb88d938ea5fea"
+hash = "218ceb46f632cbcdef9f1156c9d138ac7ad52e387f7d1cf2fac92952f92f8fd1"
 metafile = true
 
 [[files]]
@@ -38474,6 +38484,11 @@ hash = "b7ea1bfbd753377fd637a9fcd63420d552d8304e1d47233a144703af76419dc5"
 metafile = true
 
 [[files]]
+file = "mods/jadens-nether-expansion.pw.toml"
+hash = "152ac7375c7eec1d126d19fc54c5fc57df3bd75d08bd1d07daa69190001dcb3e"
+metafile = true
+
+[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "63f1c1f9093aa2a75e13722e51ef4f01ae99302c656204ac01efd9838542bd9d"
 metafile = true
@@ -38535,7 +38550,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "3e5f12a59e69a1c76ebb86a5c7552cedc6eb1e5fb6e1a0e91fb673e5a8aa6a57"
+hash = "868bce6090fbbd53a0dfdb65c389b3eff546330610f28294d6c842f9cc62a057"
 metafile = true
 
 [[files]]
@@ -38769,6 +38784,11 @@ hash = "52ac11be3fbf0acdb5e221c87f50c5c4c56f04521081c742fa68afd51002439b"
 metafile = true
 
 [[files]]
+file = "mods/recrafted-creatures.pw.toml"
+hash = "4f15287262b43afa15d801658bf19650d090410a17568051be5e77a141f7640e"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "50e9caa39b4756eb7bd5c89bda22fc080bf3a455e948426e7c401c86d67a9f62"
 metafile = true
@@ -38820,7 +38840,7 @@ metafile = true
 
 [[files]]
 file = "mods/smidgeon-o-bliss.pw.toml"
-hash = "c38ba2a95bbc6bb303cb195a19b8e29e4dd7f14f6efda18dba57d4e93bb956fa"
+hash = "bb2f86fea5e8c92b4e190c8742c14e2cda9181c731fea5f9aec70f913712a360"
 metafile = true
 
 [[files]]
@@ -38865,7 +38885,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery-plus.pw.toml"
-hash = "e268c02c43d026131eab079953079e884e54f5fdf236b5b59b9bd728551f3b36"
+hash = "37c73f610350ef485e1af19825b4b209444e069110cc0c0b3d8c010beb8a5341"
 metafile = true
 
 [[files]]
@@ -38905,7 +38925,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "9fb6920569f60f636bffb13a6feb9257c1be85c161c23e014ac3b3a05f2449dc"
+hash = "72f9362948ea64f00a9a356770662d5b82f3b72bd06a04e022761e203fdff046"
 metafile = true
 
 [[files]]
@@ -38960,7 +38980,7 @@ metafile = true
 
 [[files]]
 file = "mods/toadlib.pw.toml"
-hash = "729e677e5283f13acd31efea2ef55ac4c8f4a0459e418fe9b2b94827b3dbb82f"
+hash = "41ed656e62cbbb417fc1da1a024d2650cb650d1578fe73e96b03c520fadaa7d0"
 metafile = true
 
 [[files]]
@@ -38971,11 +38991,6 @@ metafile = true
 [[files]]
 file = "mods/treasuredistance.pw.toml"
 hash = "c7f90d1b8dfe06126484d09fbed27777af9d280501074d30992f02149b0e72cc"
-metafile = true
-
-[[files]]
-file = "mods/trotting-wagons.pw.toml"
-hash = "6c91170d100f89fcb0dc2a22302d15b69187c99ad5c97410fd4210b6b38a3da9"
 metafile = true
 
 [[files]]
@@ -39005,7 +39020,7 @@ metafile = true
 
 [[files]]
 file = "mods/wetland-whimsy.pw.toml"
-hash = "d8c267118f8ed040464c8a1032b91ffc7c4959fd1e6b3aab12a642e7991d0efc"
+hash = "ceba653548a628de093a46738e1df4081800a966e4963f4333c7ff7c8aabf0c4"
 metafile = true
 
 [[files]]
