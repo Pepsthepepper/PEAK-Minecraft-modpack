@@ -37744,6 +37744,11 @@ hash = "6056c73b9ef97d432ca1e01c21f113de4519ec1d6247ae1d091b9706e6d9cd15"
 metafile = true
 
 [[files]]
+file = "mods/alexs-cloud-storage.pw.toml"
+hash = "0fbebe1e6ae13920ef3c4ed327700f0211f6182d57988790a54c5c364206bb64"
+metafile = true
+
+[[files]]
 file = "mods/alloy-smelter.pw.toml"
 hash = "bcf4bd5c8b2d70ee657c667670cd175d645de9a04bba960d042af3f4c6f244bd"
 metafile = true
@@ -37921,6 +37926,11 @@ metafile = true
 [[files]]
 file = "mods/chloride.pw.toml"
 hash = "ac1e7559d7cbe48e6fbca5e7bad3f5376a772ccca14e1a6e53a402d51476220e"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
 
 [[files]]
@@ -38961,6 +38971,11 @@ metafile = true
 [[files]]
 file = "mods/treasuredistance.pw.toml"
 hash = "c7f90d1b8dfe06126484d09fbed27777af9d280501074d30992f02149b0e72cc"
+metafile = true
+
+[[files]]
+file = "mods/trotting-wagons.pw.toml"
+hash = "6c91170d100f89fcb0dc2a22302d15b69187c99ad5c97410fd4210b6b38a3da9"
 metafile = true
 
 [[files]]
