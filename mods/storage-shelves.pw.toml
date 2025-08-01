@@ -1,0 +1,13 @@
+name = "Storage Shelves"
+filename = "storage_shelves-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c2787dc4d8e2e52c55d3799e8f30f906bc4a6a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6829434
+project-id = 1317410

@@ -1,0 +1,13 @@
+name = "Biome Backlog"
+filename = "biome_backlog-1.20.1-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb2c4de77594b5721b3ad75c2f0305798e0bcd61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6624144
+project-id = 665450

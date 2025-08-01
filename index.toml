@@ -37734,6 +37734,11 @@ hash = "2edd661ddabd68657816cf94276a11b55d17d145ce39af646bbbaa85a2141924"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "f131905d113ba9dd127abf3c9f897aaf4ecf59657c415752533893d44cb584df"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "6056c73b9ef97d432ca1e01c21f113de4519ec1d6247ae1d091b9706e6d9cd15"
 metafile = true
@@ -37821,6 +37826,11 @@ metafile = true
 [[files]]
 file = "mods/betterskies.pw.toml"
 hash = "feb16185ef0f660417bb0ea04fde5225fad7e3761530b7efa23b6db307721dc2"
+metafile = true
+
+[[files]]
+file = "mods/biome-backlog.pw.toml"
+hash = "b7fb493164e5102f968748616cde249b107f9a1406004788ea64b10b690c8b5b"
 metafile = true
 
 [[files]]
@@ -38300,7 +38310,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "6d52549f21289d08caf40af0a949faf074f487b43ff2e061d32504efff3be369"
+hash = "bfe1b9ef08ea1e5e3a49a449105d91718a74cf10628964c86897d7ae5fac20be"
 metafile = true
 
 [[files]]
@@ -38589,6 +38599,11 @@ hash = "47482e6a74eb8eb008d6fbff3443e4ed9af3974e12c0b46e0d5f28aa4b429026"
 metafile = true
 
 [[files]]
+file = "mods/more-advancements-mod-fabric.pw.toml"
+hash = "e160588b838872727b60c073d7daaff7ca484966797bdd96b4255c30a85375b4"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d29b209fde3072e8307f59278e949d103da853ff8ed62bf1f367338d5f4acc77"
 metafile = true
@@ -38829,8 +38844,8 @@ hash = "486a22019505c3f30e3908113a85bc1d72b9a5ca1227f7959420f08e992f6b23"
 metafile = true
 
 [[files]]
-file = "mods/storage-delight-forge.pw.toml"
-hash = "95607db4ab0762b00ba21f2eb3a36c43134658bb1cf60326a3c458ede50e487a"
+file = "mods/storage-shelves.pw.toml"
+hash = "8dcdab2f92ae1c7b98d605704cfad055e884856a106beaaeba439627fa699d87"
 metafile = true
 
 [[files]]
@@ -38894,6 +38909,11 @@ hash = "a59693db27157777697ffc7fc7948f228759fb8f5aa51d574dc318d8beea4025"
 metafile = true
 
 [[files]]
+file = "mods/thermal-shock.pw.toml"
+hash = "2b91904d501c5960cc4a4e00adf7e40179594e277749dda332edcf752f5d45bb"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "57790ebd2f5c9272a0af83b90367cf565b597526031661639afca03e7e1442e7"
 metafile = true
@@ -38951,6 +38971,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "5809a535577c00eb252eadf8bf1e7855bcab55033e7dd737c01cb082c5ec6310"
+metafile = true
+
+[[files]]
+file = "mods/wither-reincarnated.pw.toml"
+hash = "8cf146e7d424d624bd3147a8fe31d3109a49313b75b20efc9bed87913cb0843a"
 metafile = true
 
 [[files]]
