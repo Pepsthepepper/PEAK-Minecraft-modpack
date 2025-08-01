@@ -37829,11 +37829,6 @@ hash = "c9326691274f1583c4e9b07d20f1e5bfc6dc4efefc18296ada635555c54a54bf"
 metafile = true
 
 [[files]]
-file = "mods/betterskies.pw.toml"
-hash = "feb16185ef0f660417bb0ea04fde5225fad7e3761530b7efa23b6db307721dc2"
-metafile = true
-
-[[files]]
 file = "mods/biome-backlog.pw.toml"
 hash = "b7fb493164e5102f968748616cde249b107f9a1406004788ea64b10b690c8b5b"
 metafile = true
