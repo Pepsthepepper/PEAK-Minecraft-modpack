@@ -37864,6 +37864,11 @@ hash = "c6a778c45860c0d04d50bf9a30801b10beb50a35442a162bf2bec466a902b490"
 metafile = true
 
 [[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "7800332385e74b0d2d5a497fe1530eee06802fb45bc71249b647884741adb6bd"
+metafile = true
+
+[[files]]
 file = "mods/bottomless-pouch.pw.toml"
 hash = "20f53d867d6c00472d4d39863148784bf08968af679610a80c3e5222885fb7d1"
 metafile = true
@@ -38631,6 +38636,11 @@ metafile = true
 [[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "08b347c6fad066d7131e501588900a27af9d33964178d72af1ab8c082be66353"
+metafile = true
+
+[[files]]
+file = "mods/mob-ai-tweaks.pw.toml"
+hash = "f0c07328ca77156c9a6054ee7afe050cd887ed2728f6e4f2d46a1bba6d49f31f"
 metafile = true
 
 [[files]]
