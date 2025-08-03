@@ -1,0 +1,13 @@
+name = "Elegant architecture"
+filename = "elegant_architecture-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6853e6ce639eeb0133cc43a2edd2a4ef65607875"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6743428
+project-id = 1162894

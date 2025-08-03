@@ -1,0 +1,13 @@
+name = "Elegant Countryside"
+filename = "elegant_countryside-2025-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb0fad87f03a07619d48eed3170ade8c38ebc00d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6700391
+project-id = 1123216

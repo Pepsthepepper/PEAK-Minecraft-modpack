@@ -1,0 +1,13 @@
+name = "Elegant Spells"
+filename = "elegant_spells-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d1f280dfe731e3f260020a5757393afd883742c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6817587
+project-id = 1315285

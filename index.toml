@@ -38159,6 +38159,21 @@ hash = "d0969b9d0925d738e1385b1d79532842cc49829f95e868dc6fd3de94da098b0d"
 metafile = true
 
 [[files]]
+file = "mods/elegant-architecture.pw.toml"
+hash = "cf78e7958015ac21708aa319eb0cb3b48430036e3271478019e0b47429b020ec"
+metafile = true
+
+[[files]]
+file = "mods/elegant-countryside.pw.toml"
+hash = "85cc578ffc4f7b7eedefc2b908acbc9e451ab03bd5625b13eeba47f56ca0973d"
+metafile = true
+
+[[files]]
+file = "mods/elegant-spells.pw.toml"
+hash = "f5d47f8f761c76b4f004dc539adbcf3fe2a19120422a6cfa0a60d67bf0af703e"
+metafile = true
+
+[[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "2c0f573079d240b04d02a27f6c166a0cc683c8cb58fb4708c5c407e0b6c2a3f1"
 metafile = true
@@ -38771,6 +38786,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "8ff6c7e48c75feffd68723e4d8c3dc6612c4845487757463826baec78667c79d"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
