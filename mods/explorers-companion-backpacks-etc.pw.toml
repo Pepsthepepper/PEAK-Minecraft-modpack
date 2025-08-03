@@ -1,0 +1,13 @@
+name = "Explorer's Companion (Backpacks, etc.)"
+filename = "explorers_companion-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "129f899a71c5ee58a04e176011dbb0b5ec96425e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5259368
+project-id = 1000025

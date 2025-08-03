@@ -1,0 +1,13 @@
+name = "Oddities: Epics & Artistry"
+filename = "oddities.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e10e6f75b098f7dc5464208436fb671b119a81e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5564751
+project-id = 1042347

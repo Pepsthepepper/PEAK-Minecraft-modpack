@@ -37775,7 +37775,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a7fa7c681c6bbc5d614b527c7f234153af5a54686013282ae918f8c1e41dfc23"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -37845,7 +37845,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "911a308fec5269d92af24863316db2091694bfd4f773c05c7fbf6e04a7baf906"
+hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
 metafile = true
 
 [[files]]
@@ -37886,6 +37886,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "a4d8233f87131314f6acc4eb91d671b77897d2e7a4621257fe78c89e49e6d3c6"
+metafile = true
+
+[[files]]
+file = "mods/calypsos-candy-workshop.pw.toml"
+hash = "092b2c5eb1e871cdde7c75c0bf37cd4ebbcf42cb349e266d7dc162dd96e4d7df"
 metafile = true
 
 [[files]]
@@ -37994,6 +37999,11 @@ hash = "d606b7407e7fb352a89d59f2ccb849779184685f1c731024ec16e7f66116e71e"
 metafile = true
 
 [[files]]
+file = "mods/cosmopolitan.pw.toml"
+hash = "b1dc522406ddf39dc412152ef47c315c5c4eda83806942bae6c3d59802a1597d"
+metafile = true
+
+[[files]]
 file = "mods/cosy-critters-creepy-crawlies.pw.toml"
 hash = "969560ee43837a6eee0e871f788c6cd1eb5598f86571faa7bf2df24d9de81240"
 metafile = true
@@ -38009,8 +38019,18 @@ hash = "2eeb2ac5c0c5628dd0d5b7b710e7030a4ed95f86abbf752ce59cb98ef3b28a91"
 metafile = true
 
 [[files]]
+file = "mods/create-backpack-pixel.pw.toml"
+hash = "66aa1054d2d3a68b51100dc249b3b67e66554cd054864d9404ec7b19cdcc4297"
+metafile = true
+
+[[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "1d48bb0da01ffda56275bbeb23e30662909f873e7df4805a763c16aa312be760"
+metafile = true
+
+[[files]]
+file = "mods/create-bigger-storage.pw.toml"
+hash = "001bbc14b75004eac703cb0225ecad68aaa81822c305260459cc29ea58865b4e"
 metafile = true
 
 [[files]]
@@ -38029,8 +38049,18 @@ hash = "0ba0dde773c8ef08b3e11ee2af19da62f07a0fcf3451a65596c4c8a6f7a58169"
 metafile = true
 
 [[files]]
+file = "mods/create-ender-link.pw.toml"
+hash = "fa0f5113d9d6ee70d294bb6bc7faf1c5651332b9581a15c9dd27395f75e32b62"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "498dfe65ec5fd57309b28bafbed8e8967722c361b1422fa6ff9b6b68faa76b57"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "1d9d72055b09d16ca9d55951b4d9d93dfe0590f9d3a0418560d0af6527849d3c"
 metafile = true
 
 [[files]]
@@ -38050,7 +38080,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1f1ff4118b27b8715ba5f0d4cbd13382b5b5443f0b7bc7643e5678e6407dbea8"
+hash = "26b5eb49763ba8b3078ea93222f2b73e86ad4b3b2030a1b7628aab37b9061ae2"
 metafile = true
 
 [[files]]
@@ -38066,6 +38096,11 @@ metafile = true
 [[files]]
 file = "mods/critters-n-crawlers.pw.toml"
 hash = "54f66ca5952d16efae2ec22ea1fbd128cf3fbb58a442c1d2a9aa1f03b62bb21f"
+metafile = true
+
+[[files]]
+file = "mods/crumbslib.pw.toml"
+hash = "5a65c10e196688cfd273d670aefbb4dfe91abac8160a6db9ebdad40dba37f4b2"
 metafile = true
 
 [[files]]
@@ -38174,6 +38209,11 @@ hash = "f5d47f8f761c76b4f004dc539adbcf3fe2a19120422a6cfa0a60d67bf0af703e"
 metafile = true
 
 [[files]]
+file = "mods/elliemores-deep-waters.pw.toml"
+hash = "b4d351f2be70f09cc7017d54b8c5d616648637575570d3c0e8ecb08a42ac00c3"
+metafile = true
+
+[[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "2c0f573079d240b04d02a27f6c166a0cc683c8cb58fb4708c5c407e0b6c2a3f1"
 metafile = true
@@ -38254,8 +38294,18 @@ hash = "2ef8153a7db3458a471647f91aca5661d6442e1e806fb1a4c2dc1d75fd8a369a"
 metafile = true
 
 [[files]]
+file = "mods/even-better-nether.pw.toml"
+hash = "f842d16def51829deb25d810075a418e2a7790e19e7ccdb275186da2fc833be6"
+metafile = true
+
+[[files]]
 file = "mods/expansion-more-golems.pw.toml"
 hash = "7a6ab4200efdd78c0a261b7dd8d3c6f56ba6c24ca7f487c2bad9f5baea27fd8b"
+metafile = true
+
+[[files]]
+file = "mods/explorers-companion-backpacks-etc.pw.toml"
+hash = "ca7753ef8da29f1ac523832965dd366e4526115751df1ba3892ed53d8117b1b1"
 metafile = true
 
 [[files]]
@@ -38324,6 +38374,11 @@ hash = "ea3be87d274b28cfce0b5e798e31a189bebf4dd37ee7636da9d15b4d6a546b6f"
 metafile = true
 
 [[files]]
+file = "mods/fowlplay.pw.toml"
+hash = "7acc8491ba1a6530756e9942abf9da05b1eecbc00f491e3b7156160285a92f62"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "b9d14f8f981f89785ea01755c7c8806dfdf906a8d0933648a5494efa2a601131"
 metafile = true
@@ -38356,6 +38411,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "b5eafcde0673136601decedf7f55ac74d74474cea1f5f333442f91e579831b44"
+metafile = true
+
+[[files]]
+file = "mods/furniture-beetle.pw.toml"
+hash = "6da272c1d5d90c4ad76e6b8c7312d782d16d7f57761f82da2ff73cdcec160825"
 metafile = true
 
 [[files]]
@@ -38464,6 +38524,11 @@ hash = "22c0e79f53db9a85fda8cd7c77c4ae18e4547bd0a3181fe52634eb5b13383207"
 metafile = true
 
 [[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "29847b89bce2266c749cc397d0f31272784e4bcd56f55196792c5a3bb88c97dc"
+metafile = true
+
+[[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "f45e371916edd3de073a9733e494c1dc14fc10622330e78724f89333a9de7a04"
 metafile = true
@@ -38531,6 +38596,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "36385812d5483cb22fab8254ea0313b66aba90aec17bd4306ed85de4a14cf3fb"
+metafile = true
+
+[[files]]
+file = "mods/kleiders-custom-renderer-api.pw.toml"
+hash = "e08d2853ca2d86b989fc555ee04b20721ebc936b258863244876d67df589a1e8"
 metafile = true
 
 [[files]]
@@ -38649,6 +38719,11 @@ hash = "546c00dbf9be00ca5f333ea1e44c5356c45b569fd19240bf72f8697b5122c3e9"
 metafile = true
 
 [[files]]
+file = "mods/mineral-backpacks.pw.toml"
+hash = "915e92afbee2cdb0e6930c4dd312b2a05bb3fe034adaa24bc786859bfc7530b4"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "08b347c6fad066d7131e501588900a27af9d33964178d72af1ab8c082be66353"
 metafile = true
@@ -38751,6 +38826,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "7650bde6226c1709f24307c99ce6fe313878bbb3f437e2ffb12c2f280d46889c"
+metafile = true
+
+[[files]]
+file = "mods/oddities.pw.toml"
+hash = "66ec403e5f8212bc5d75e81a5ce78e9a442e8b4b935440d31783a94f481aba62"
 metafile = true
 
 [[files]]
@@ -38864,8 +38944,23 @@ hash = "fdef14c94a4ecfc2c5178dccaacd98d9b8d73ab6b0ece7b4a3b08d47e057cd69"
 metafile = true
 
 [[files]]
+file = "mods/shelf-mod.pw.toml"
+hash = "b6863375e85c3f0bd8c79dd023c4a3f4410d79733480e33de3bcc08fb4d02a8c"
+metafile = true
+
+[[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "e1af4f2bc5f357b8dff23ed3ae0c59363535896725eba78523315c7d43ac49a3"
+metafile = true
+
+[[files]]
+file = "mods/slime-overhaul.pw.toml"
+hash = "19e1c0f756031df641e22dd390ccd9e5180ce4944903d4afbb35c2c4aa73a099"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
@@ -38994,6 +39089,11 @@ hash = "f37a3e8745852a98a6dcef8d1b7460be40831b40d015992f104749ed56de0033"
 metafile = true
 
 [[files]]
+file = "mods/the-submarine.pw.toml"
+hash = "e4d5ca9862b6bd1d9e3e6d664dda0b5ce6f79e22fd98a6eb84ead216d02b39b4"
+metafile = true
+
+[[files]]
 file = "mods/the-zoomify-mod.pw.toml"
 hash = "a59693db27157777697ffc7fc7948f228759fb8f5aa51d574dc318d8beea4025"
 metafile = true
@@ -39044,6 +39144,11 @@ hash = "58aeedab2c7cd160a8fb4441634421b40c93b79453f0bb91088073e4ab9bf29c"
 metafile = true
 
 [[files]]
+file = "mods/weapon-class.pw.toml"
+hash = "bc00626a0996c0122482941b207d9d593cc722c8aee15c98fca63bd17f816324"
+metafile = true
+
+[[files]]
 file = "mods/weaponmaster.pw.toml"
 hash = "a71491995b3ceda2d5fc69ff0e4d4b5bccc5e9883d0c8b3151dd23254ea4ecbf"
 metafile = true
@@ -39090,7 +39195,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b3f3758d02c51621c03b20879aca8db8c017d77d54e59741a87c4d8ee6e4dae6"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
 
 [[files]]

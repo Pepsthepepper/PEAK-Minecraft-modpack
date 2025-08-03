@@ -1,0 +1,13 @@
+name = "Create: Ender Link"
+filename = "createenderlink-1.4.0+mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5057e0e0e85170d854b8796df0f78decc1899774"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6682469
+project-id = 1233526

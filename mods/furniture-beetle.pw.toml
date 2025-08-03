@@ -1,0 +1,13 @@
+name = "Furniture Beetle"
+filename = "Furniture-Beetle-1.20.1-0.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba49144979d69bf58efc45444bc86e1f8344b74c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5883249
+project-id = 1074602
