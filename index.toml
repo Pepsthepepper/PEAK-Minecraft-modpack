@@ -38164,11 +38164,6 @@ hash = "d0969b9d0925d738e1385b1d79532842cc49829f95e868dc6fd3de94da098b0d"
 metafile = true
 
 [[files]]
-file = "mods/elegant-spells.pw.toml"
-hash = "f5d47f8f761c76b4f004dc539adbcf3fe2a19120422a6cfa0a60d67bf0af703e"
-metafile = true
-
-[[files]]
 file = "mods/elliemores-deep-waters.pw.toml"
 hash = "b4d351f2be70f09cc7017d54b8c5d616648637575570d3c0e8ecb08a42ac00c3"
 metafile = true
@@ -39006,11 +39001,6 @@ metafile = true
 [[files]]
 file = "mods/text-animator.pw.toml"
 hash = "f37a3e8745852a98a6dcef8d1b7460be40831b40d015992f104749ed56de0033"
-metafile = true
-
-[[files]]
-file = "mods/the-submarine.pw.toml"
-hash = "e4d5ca9862b6bd1d9e3e6d664dda0b5ce6f79e22fd98a6eb84ead216d02b39b4"
 metafile = true
 
 [[files]]
