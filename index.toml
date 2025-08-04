@@ -37844,6 +37844,11 @@ hash = "fc17ae34cc0510fb3bbec1cc52b60244f29a280aed0bca7ebf8c2e9357c59de6"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
+metafile = true
+
+[[files]]
 file = "mods/boatload.pw.toml"
 hash = "18713493dcb573686d186675bf37a146f75aad187b2c6c0de6a8ba1d1be9e825"
 metafile = true
@@ -38131,11 +38136,6 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "c677159b1ed1d490f63364455d60e754564e3285c72a6c9ac26040d853433aaa"
-metafile = true
-
-[[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "9ef1d5c28460db92fc15daf4d6c38a27e85cd4b8fbcdb38057ede8cfb829df8e"
 metafile = true
 
 [[files]]
