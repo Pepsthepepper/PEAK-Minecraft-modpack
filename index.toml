@@ -37844,11 +37844,6 @@ hash = "fc17ae34cc0510fb3bbec1cc52b60244f29a280aed0bca7ebf8c2e9357c59de6"
 metafile = true
 
 [[files]]
-file = "mods/blueprint.pw.toml"
-hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
-metafile = true
-
-[[files]]
 file = "mods/boatload.pw.toml"
 hash = "18713493dcb573686d186675bf37a146f75aad187b2c6c0de6a8ba1d1be9e825"
 metafile = true
@@ -37999,11 +37994,6 @@ hash = "d606b7407e7fb352a89d59f2ccb849779184685f1c731024ec16e7f66116e71e"
 metafile = true
 
 [[files]]
-file = "mods/cosmopolitan.pw.toml"
-hash = "b1dc522406ddf39dc412152ef47c315c5c4eda83806942bae6c3d59802a1597d"
-metafile = true
-
-[[files]]
 file = "mods/cosy-critters-creepy-crawlies.pw.toml"
 hash = "969560ee43837a6eee0e871f788c6cd1eb5598f86571faa7bf2df24d9de81240"
 metafile = true
@@ -38016,11 +38006,6 @@ metafile = true
 [[files]]
 file = "mods/create-alloyed.pw.toml"
 hash = "2eeb2ac5c0c5628dd0d5b7b710e7030a4ed95f86abbf752ce59cb98ef3b28a91"
-metafile = true
-
-[[files]]
-file = "mods/create-backpack-pixel.pw.toml"
-hash = "66aa1054d2d3a68b51100dc249b3b67e66554cd054864d9404ec7b19cdcc4297"
 metafile = true
 
 [[files]]
@@ -38301,16 +38286,6 @@ metafile = true
 [[files]]
 file = "mods/expansion-more-golems.pw.toml"
 hash = "7a6ab4200efdd78c0a261b7dd8d3c6f56ba6c24ca7f487c2bad9f5baea27fd8b"
-metafile = true
-
-[[files]]
-file = "mods/explorers-companion-backpacks-etc.pw.toml"
-hash = "ca7753ef8da29f1ac523832965dd366e4526115751df1ba3892ed53d8117b1b1"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "61019d9d3648ba9dcdd91f0f1a55ceb924e15cc9071153c75403eafd80f7d174"
 metafile = true
 
 [[files]]
@@ -38829,11 +38804,6 @@ hash = "7650bde6226c1709f24307c99ce6fe313878bbb3f437e2ffb12c2f280d46889c"
 metafile = true
 
 [[files]]
-file = "mods/oddities.pw.toml"
-hash = "66ec403e5f8212bc5d75e81a5ce78e9a442e8b4b935440d31783a94f481aba62"
-metafile = true
-
-[[files]]
 file = "mods/optileaves.pw.toml"
 hash = "feb9ae3a03c607f69b7a7534a55027f0e1f4d68523b2f3a0838e74a497fd79cd"
 metafile = true
@@ -38941,11 +38911,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "fdef14c94a4ecfc2c5178dccaacd98d9b8d73ab6b0ece7b4a3b08d47e057cd69"
-metafile = true
-
-[[files]]
-file = "mods/shelf-mod.pw.toml"
-hash = "b6863375e85c3f0bd8c79dd023c4a3f4410d79733480e33de3bcc08fb4d02a8c"
 metafile = true
 
 [[files]]
@@ -39141,11 +39106,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "58aeedab2c7cd160a8fb4441634421b40c93b79453f0bb91088073e4ab9bf29c"
-metafile = true
-
-[[files]]
-file = "mods/weapon-class.pw.toml"
-hash = "bc00626a0996c0122482941b207d9d593cc722c8aee15c98fca63bd17f816324"
 metafile = true
 
 [[files]]
