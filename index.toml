@@ -37889,11 +37889,6 @@ hash = "a4d8233f87131314f6acc4eb91d671b77897d2e7a4621257fe78c89e49e6d3c6"
 metafile = true
 
 [[files]]
-file = "mods/calypsos-candy-workshop.pw.toml"
-hash = "092b2c5eb1e871cdde7c75c0bf37cd4ebbcf42cb349e266d7dc162dd96e4d7df"
-metafile = true
-
-[[files]]
 file = "mods/canary.pw.toml"
 hash = "8ad21a02209e4b1b0a904774011bf5b3b5331b66dedc0505e29384b1fbf07a39"
 metafile = true
@@ -38019,11 +38014,6 @@ hash = "1d48bb0da01ffda56275bbeb23e30662909f873e7df4805a763c16aa312be760"
 metafile = true
 
 [[files]]
-file = "mods/create-bigger-storage.pw.toml"
-hash = "001bbc14b75004eac703cb0225ecad68aaa81822c305260459cc29ea58865b4e"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "528e9040503caeb892291b8687498c9405aeb77fa91c8dc53cc2d975150876cc"
 metafile = true
@@ -38046,11 +38036,6 @@ metafile = true
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "498dfe65ec5fd57309b28bafbed8e8967722c361b1422fa6ff9b6b68faa76b57"
-metafile = true
-
-[[files]]
-file = "mods/create-mobile-packages.pw.toml"
-hash = "1d9d72055b09d16ca9d55951b4d9d93dfe0590f9d3a0418560d0af6527849d3c"
 metafile = true
 
 [[files]]
@@ -38176,16 +38161,6 @@ metafile = true
 [[files]]
 file = "mods/eldritch-end.pw.toml"
 hash = "d0969b9d0925d738e1385b1d79532842cc49829f95e868dc6fd3de94da098b0d"
-metafile = true
-
-[[files]]
-file = "mods/elegant-architecture.pw.toml"
-hash = "cf78e7958015ac21708aa319eb0cb3b48430036e3271478019e0b47429b020ec"
-metafile = true
-
-[[files]]
-file = "mods/elegant-countryside.pw.toml"
-hash = "85cc578ffc4f7b7eedefc2b908acbc9e451ab03bd5625b13eeba47f56ca0973d"
 metafile = true
 
 [[files]]
@@ -38574,11 +38549,6 @@ hash = "36385812d5483cb22fab8254ea0313b66aba90aec17bd4306ed85de4a14cf3fb"
 metafile = true
 
 [[files]]
-file = "mods/kleiders-custom-renderer-api.pw.toml"
-hash = "e08d2853ca2d86b989fc555ee04b20721ebc936b258863244876d67df589a1e8"
-metafile = true
-
-[[files]]
 file = "mods/knight-lib.pw.toml"
 hash = "93c1a321992b436b21e60aad7641bb57f217fa9be563f8ca3ddb0dc38ec232eb"
 metafile = true
@@ -38694,18 +38664,8 @@ hash = "546c00dbf9be00ca5f333ea1e44c5356c45b569fd19240bf72f8697b5122c3e9"
 metafile = true
 
 [[files]]
-file = "mods/mineral-backpacks.pw.toml"
-hash = "915e92afbee2cdb0e6930c4dd312b2a05bb3fe034adaa24bc786859bfc7530b4"
-metafile = true
-
-[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "08b347c6fad066d7131e501588900a27af9d33964178d72af1ab8c082be66353"
-metafile = true
-
-[[files]]
-file = "mods/mob-ai-tweaks.pw.toml"
-hash = "f0c07328ca77156c9a6054ee7afe050cd887ed2728f6e4f2d46a1bba6d49f31f"
 metafile = true
 
 [[files]]
@@ -38916,11 +38876,6 @@ metafile = true
 [[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "e1af4f2bc5f357b8dff23ed3ae0c59363535896725eba78523315c7d43ac49a3"
-metafile = true
-
-[[files]]
-file = "mods/slime-overhaul.pw.toml"
-hash = "19e1c0f756031df641e22dd390ccd9e5180ce4944903d4afbb35c2c4aa73a099"
 metafile = true
 
 [[files]]
