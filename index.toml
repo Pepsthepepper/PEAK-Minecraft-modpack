@@ -37729,6 +37729,11 @@ file = "gitignore.txt"
 hash = "75e2aeab8c2458d4b4de064909fecaaefab11cc3b9e668744784e0b1f2f03d9b"
 
 [[files]]
+file = "mods/aaa-particles.pw.toml"
+hash = "9a8f10d45d432a7edef4cfa03dd1446957d473c02fde4a5aca6745f276e88ebf"
+metafile = true
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "2edd661ddabd68657816cf94276a11b55d17d145ce39af646bbbaa85a2141924"
 metafile = true
@@ -37775,7 +37780,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -37919,6 +37924,11 @@ hash = "6b677b62e75a5ce5c63ef7623b4c209ebac2f75d2fbfdb6a5058cc27f3ce52eb"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "b1ab408877cf5fecfaa7726a6e7e3b23bc63d3fc721be8f4ca235d002954f597"
 metafile = true
@@ -38011,6 +38021,11 @@ metafile = true
 [[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "1d48bb0da01ffda56275bbeb23e30662909f873e7df4805a763c16aa312be760"
+metafile = true
+
+[[files]]
+file = "mods/create-blaze-burner-fuels.pw.toml"
+hash = "579c84c6afdb9469f49451792709bfce330804f4d2c4837fbf25d344861e4a7a"
 metafile = true
 
 [[files]]
@@ -38375,7 +38390,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "3e1eb9740fada46d463ae8f5e1f2cf24d5a85532356f7d5173a7c23a0dd8fb53"
+hash = "bfe1b9ef08ea1e5e3a49a449105d91718a74cf10628964c86897d7ae5fac20be"
 metafile = true
 
 [[files]]
@@ -38539,6 +38554,11 @@ hash = "e9db19e3ec96f8158c989986a85e6fc15a016e2d07af275a0fabd2a5b413cdb5"
 metafile = true
 
 [[files]]
+file = "mods/kamilskis-additions.pw.toml"
+hash = "d2fc23dbd0396707a77d4c185eee6fd77046c843226a15aa9af26a8ec47e14f9"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "36385812d5483cb22fab8254ea0313b66aba90aec17bd4306ed85de4a14cf3fb"
 metafile = true
@@ -38691,6 +38711,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d29b209fde3072e8307f59278e949d103da853ff8ed62bf1f367338d5f4acc77"
+metafile = true
+
+[[files]]
+file = "mods/myths-of-the-sea.pw.toml"
+hash = "6e6edfe5aae670dbf2e41a44edaacdcc9a93165cc38fad71a51b35b6687d19f9"
 metafile = true
 
 [[files]]

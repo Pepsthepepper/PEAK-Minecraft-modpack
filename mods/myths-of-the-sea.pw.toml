@@ -1,0 +1,13 @@
+name = "Myths of The Sea"
+filename = "MOTS-Forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecf569e41bd6a3b823f1ba3fcc5c4fd05b5370db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6836944
+project-id = 1317493
