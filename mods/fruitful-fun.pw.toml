@@ -1,13 +1,13 @@
 name = "Fruitful Fun 🍊"
-filename = "FruitfulFun-1.20.1-Forge-7.6.10.jar"
+filename = "FruitfulFun-1.20.1-Forge-7.8.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4bZDWNlG/versions/yL0B7pIO/FruitfulFun-1.20.1-Forge-7.6.10.jar"
-hash-format = "sha256"
-hash = "7953057dea0fb43a8e740d7619dfafe5a9105262c7c3bfcee7c0f7200fca79ea"
+url = "https://cdn.modrinth.com/data/4bZDWNlG/versions/UGfXXjKA/FruitfulFun-1.20.1-Forge-7.8.4.jar"
+hash-format = "sha512"
+hash = "76b2d0af6ecb639cfd2b4aa2a4257c19be33ed69ac781f5632f839f8cbdc216720a255fb0e4a3af99481909543aa7a6015102be174188b4507c1f4a15e7d8b6c"
 
 [update]
 [update.modrinth]
 mod-id = "4bZDWNlG"
-version = "yL0B7pIO"
+version = "UGfXXjKA"

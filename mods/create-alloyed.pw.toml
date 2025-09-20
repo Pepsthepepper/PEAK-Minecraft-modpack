@@ -1,13 +1,13 @@
 name = "Create: Alloyed"
-filename = "create_alloyed-2.1.0+1.20.1.jar"
+filename = "create_alloyed-2.1.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KUInlTFo/versions/tlmXbvFX/create_alloyed-2.1.0%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "1d082f210176d163ae3636f031afc3b54045ba2e2d6a73624fd6ce0f3607e16b"
+url = "https://cdn.modrinth.com/data/KUInlTFo/versions/t22SX90z/create_alloyed-2.1.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "35dad6659158940057c69a9f01fe6996eccd288b5c5b4a79ff68496d38674aa71ff90c188363c13e386d0b44935a82d7fcf1dd87d33ec4790a1c036b6532f627"
 
 [update]
 [update.modrinth]
 mod-id = "KUInlTFo"
-version = "tlmXbvFX"
+version = "t22SX90z"

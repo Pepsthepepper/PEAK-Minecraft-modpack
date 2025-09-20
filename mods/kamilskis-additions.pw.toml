@@ -1,13 +1,13 @@
 name = "Kamilskis Additions"
-filename = "RPG1.20.1-1.5.1-Content-Update.jar"
+filename = "RPG1.20.1-1.5.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IuwkBi1M/versions/kzi6Qm4L/RPG1.20.1-1.5.1-Content-Update.jar"
+url = "https://cdn.modrinth.com/data/IuwkBi1M/versions/GhKsyLL0/RPG1.20.1-1.5.3.jar"
 hash-format = "sha512"
-hash = "d989aecc159656ca3413917c97e7c67780fa0b107d2baba95bf3ecba9cc94aa4f6c1de3d42a974c87e1b1a2c80fd73e33e37cb159ac7923559c460b58f0723c8"
+hash = "f53eb9cbc47a3ceb7fc0310060c459696ab25ed1c66960e458e35cb188906325043adef32d4d7679219b19b1b797e585c29b705fb1b639499454745381217f6b"
 
 [update]
 [update.modrinth]
 mod-id = "IuwkBi1M"
-version = "kzi6Qm4L"
+version = "GhKsyLL0"

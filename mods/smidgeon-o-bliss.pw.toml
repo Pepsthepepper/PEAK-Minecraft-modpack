@@ -1,13 +1,13 @@
 name = "Smidgeon o' Bliss REMASTERED"
-filename = "sob-1.20.1-1.1.3.jar"
+filename = "sob-1.20.1-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U0NtGuWQ/versions/EalcDwTg/sob-1.20.1-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/U0NtGuWQ/versions/dHBKwJZ6/sob-1.20.1-1.1.4.jar"
 hash-format = "sha512"
-hash = "8208c113fd7327502eccc7826a09f119955c40b864bc8b147e293d8150902a8fd89b751532538c7f596a1e16e661f6ece0fe4802df10c2f86aa21e7652c33f62"
+hash = "76ac9dc4c54a8fcd2db1e694ff0585403f94230aada8c4ffbe60813638278564fc371b6df822f5568943aaabf123e188c0aaa81b7ae2f408b4f433a72ecd4aaf"
 
 [update]
 [update.modrinth]
 mod-id = "U0NtGuWQ"
-version = "EalcDwTg"
+version = "dHBKwJZ6"

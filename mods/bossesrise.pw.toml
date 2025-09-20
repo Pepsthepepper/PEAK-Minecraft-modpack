@@ -1,13 +1,13 @@
 name = "Bosses'Rise (Forge/NeoForge)"
-filename = "bossesrise-1.20.1-forge-1.0.6.1.jar"
+filename = "bossesrise-1.20.1-forge-1.0.9.2b.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "193048cd55fab8e3c88352db176be62bc6fdfd68"
+hash = "e03c398470811d2eda8792ed66cd2468b3a48f51"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6844046
+file-id = 7009368
 project-id = 1314084

@@ -1,13 +1,13 @@
 name = "Armory Conglomery"
-filename = "armory-conglomery-v2.zip"
+filename = "armory-conglomery-v2.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f73fe1b86756ebabc2a8260cd48d49e6184c9763"
+hash = "f4593b15c2657921c8a34a20d450c7f8ba43bfae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5590102
+file-id = 6920133
 project-id = 892893

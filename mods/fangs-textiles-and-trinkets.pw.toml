@@ -1,13 +1,13 @@
-name = "Fang's Textiles and Trinkets"
-filename = "textiles_and_trinkets-1.0.2-forge-1.20.1.jar"
+name = "Fang's Textiles and Trinkets ✦ Annihilation Update"
+filename = "textiles_and_trinkets-1.1.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "18f0533c2602f838767bf4be45e5206f2bc09b24"
+hash = "66700c656952062e6b29facc61c50f525f6dd6c0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6764902
+file-id = 6926004
 project-id = 1303639

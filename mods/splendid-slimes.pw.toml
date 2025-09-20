@@ -1,13 +1,13 @@
 name = "Splendid Slimes"
-filename = "splendid_slimes-0.14.3.jar"
+filename = "splendid_slimes-0.14.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "14d67739d7cd79ff3d96f381e11a8969c6f434db"
+hash = "81cdd2a411efb879dcd160dd83007dd008db974e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6905746
+file-id = 6913446
 project-id = 1240935
