@@ -1,0 +1,13 @@
+name = "Hexalia"
+filename = "hexalia-1.2.62-1.20.1+forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f7011250a7b2ae6b4abbacaf98b66d5cedc4f54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6931391
+project-id = 962878

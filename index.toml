@@ -38139,6 +38139,11 @@ hash = "4f17bc5b48f3ced1c9826c8260002c610af1698b872c984b22c0a0f8c27c3f4d"
 metafile = true
 
 [[files]]
+file = "mods/darker-depths.pw.toml"
+hash = "6b57c370edd974b91ab1a595d4624c98a6fea2eb1d4accaa69b08d6023038fcf"
+metafile = true
+
+[[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "bc81a723d9c6e0ba29b84c510945ce032de81e128d7b420da75ef89e7907a3e1"
 metafile = true
@@ -38474,8 +38479,18 @@ hash = "12e6cb4e6f2a5c0342a7f61ece1f118d637e53e34b6691d53b36fed317022dfd"
 metafile = true
 
 [[files]]
+file = "mods/growthcraft-community-edition.pw.toml"
+hash = "10c5ea818b03f85e11c4115bdad4b4b7eed558f454a9a2c68d6eb480c6f15928"
+metafile = true
+
+[[files]]
 file = "mods/hearth-and-home.pw.toml"
 hash = "2d87c0ef69b668dd393965f5a452d9d35a924ee884a9aa524dfa55bf526c8858"
+metafile = true
+
+[[files]]
+file = "mods/hexalia.pw.toml"
+hash = "ec3b73b21617f1c38985507f71eeeb7008f35ae72230bff1fe2e2dc7357e95cc"
 metafile = true
 
 [[files]]
@@ -38641,6 +38656,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-additions.pw.toml"
 hash = "255588c5e5b5da6e8cd17c7b28403dc0b2d03c28c3060c4858459897586336b9"
+metafile = true
+
+[[files]]
+file = "mods/legendary-survival-overhaul.pw.toml"
+hash = "4e83b9553593fb239a1bf27dc4af211cfe41ffc9b5c9861b48823503b373b19d"
 metafile = true
 
 [[files]]
@@ -38914,6 +38934,11 @@ hash = "4f15287262b43afa15d801658bf19650d090410a17568051be5e77a141f7640e"
 metafile = true
 
 [[files]]
+file = "mods/reeves-furniture.pw.toml"
+hash = "77680f66ea84ea597eca3e47682d2d539fa11079ac5bda1354f47373f8f605c0"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "50e9caa39b4756eb7bd5c89bda22fc080bf3a455e948426e7c401c86d67a9f62"
 metafile = true
@@ -38961,6 +38986,11 @@ metafile = true
 [[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "e1af4f2bc5f357b8dff23ed3ae0c59363535896725eba78523315c7d43ac49a3"
+metafile = true
+
+[[files]]
+file = "mods/shifted-lens.pw.toml"
+hash = "785d5a2d3853e7ff611a168a3536a97c72b3719c24de678d2cf73611cd00f940"
 metafile = true
 
 [[files]]
