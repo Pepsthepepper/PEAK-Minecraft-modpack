@@ -38339,6 +38339,11 @@ hash = "87fb84954814d6df80529b8bfbd5a58165925a6dfc1bcc3c5dc63d36ebeedbbf"
 metafile = true
 
 [[files]]
+file = "mods/fdlib.pw.toml"
+hash = "2a184469f621fc772cb391488a664e63df4c19f87fab5d07f8fcca71bbee1c16"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
 metafile = true
@@ -38469,11 +38474,6 @@ hash = "12fc1866bc68902605eebbd8d5eca1153456d69dbdecfe14ca2c7a80247f5daa"
 metafile = true
 
 [[files]]
-file = "mods/goety.pw.toml"
-hash = "e8b45e99a8d67c6ae98fc95b4c711b0c960a865a36f62be10e759affbe7ba04d"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "12e6cb4e6f2a5c0342a7f61ece1f118d637e53e34b6691d53b36fed317022dfd"
 metafile = true
@@ -38531,11 +38531,6 @@ metafile = true
 [[files]]
 file = "mods/icterine.pw.toml"
 hash = "93ab20d92209b719c6bcdc319ac271ddad570cba79f7ab9718cbe5a5a987f9c8"
-metafile = true
-
-[[files]]
-file = "mods/illage-and-spillage-finally-ported.pw.toml"
-hash = "11cc80ae7d66c9c1271073028f0e39687ef028e76751ff2b9ab990f0e138c6da"
 metafile = true
 
 [[files]]
@@ -38906,6 +38901,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
+metafile = true
+
+[[files]]
+file = "mods/qliphoth-awakening.pw.toml"
+hash = "f37841d9f99b8deb68034d22fb0c74f601915e85f4020cd9f3a3e7887dc1cd26"
 metafile = true
 
 [[files]]
