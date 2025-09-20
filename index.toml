@@ -38494,6 +38494,11 @@ hash = "ec3b73b21617f1c38985507f71eeeb7008f35ae72230bff1fe2e2dc7357e95cc"
 metafile = true
 
 [[files]]
+file = "mods/hold-my-items-refoxed.pw.toml"
+hash = "300b1ba0d75b1770645ea4be305072f4f840f8eee546485ee399bfdaf5a9e3e6"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 hash = "e5ef21cb222596d4d139af32161142b2dda3d661bd00ce3c057f3aee95f3e4ee"
 metafile = true
@@ -39201,6 +39206,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "5809a535577c00eb252eadf8bf1e7855bcab55033e7dd737c01cb082c5ec6310"
+metafile = true
+
+[[files]]
+file = "mods/windsweptmod.pw.toml"
+hash = "d8ec079b17418cf615385822743c6e7eead69738874c7190e01b20ff125ccbad"
 metafile = true
 
 [[files]]
