@@ -37764,11 +37764,6 @@ hash = "fe47607a5198b551ef25dc6be113df40b0b154b043a270f86adda8caa7be816a"
 metafile = true
 
 [[files]]
-file = "mods/ambient-additions.pw.toml"
-hash = "bf59e2fa22d86775030dd0ae1e7d7bd627e29bc9d6ebb0bd7d69e41d3e2bbaa0"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "2babcd6a49442b928bc0580b7ed52349c5a8eca27a60f8b8bb09a4c028e1ba98"
 metafile = true
@@ -38494,11 +38489,6 @@ hash = "ec3b73b21617f1c38985507f71eeeb7008f35ae72230bff1fe2e2dc7357e95cc"
 metafile = true
 
 [[files]]
-file = "mods/hold-my-items-refoxed.pw.toml"
-hash = "300b1ba0d75b1770645ea4be305072f4f840f8eee546485ee399bfdaf5a9e3e6"
-metafile = true
-
-[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 hash = "e5ef21cb222596d4d139af32161142b2dda3d661bd00ce3c057f3aee95f3e4ee"
 metafile = true
@@ -39151,11 +39141,6 @@ metafile = true
 [[files]]
 file = "mods/toadlib.pw.toml"
 hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
-metafile = true
-
-[[files]]
-file = "mods/tonic-and-wild-medicine.pw.toml"
-hash = "60a4143d87f3240f80f992489b8453ccc85306fedf05a6903681fadbba277eb8"
 metafile = true
 
 [[files]]
