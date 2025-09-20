@@ -37764,6 +37764,11 @@ hash = "fe47607a5198b551ef25dc6be113df40b0b154b043a270f86adda8caa7be816a"
 metafile = true
 
 [[files]]
+file = "mods/ambient-additions.pw.toml"
+hash = "bf59e2fa22d86775030dd0ae1e7d7bd627e29bc9d6ebb0bd7d69e41d3e2bbaa0"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "2babcd6a49442b928bc0580b7ed52349c5a8eca27a60f8b8bb09a4c028e1ba98"
 metafile = true
@@ -38435,7 +38440,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "a3d9047f4cca960840f572b1a0ff3ef2cd881e0a1b5a6783ac0ce333097b99c9"
+hash = "cdb49cbc2bf1bd15a0be40373b6bc5c4cbd550d78896ab9317f72ce72858f712"
 metafile = true
 
 [[files]]
