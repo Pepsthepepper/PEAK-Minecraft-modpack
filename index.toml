@@ -38794,11 +38794,6 @@ hash = "d29b209fde3072e8307f59278e949d103da853ff8ed62bf1f367338d5f4acc77"
 metafile = true
 
 [[files]]
-file = "mods/myths-of-the-sea.pw.toml"
-hash = "50254ffebe5ba2423aa272059923771d0bc8ca724387ff4c6066720e842c8fc6"
-metafile = true
-
-[[files]]
 file = "mods/naming-unconvention.pw.toml"
 hash = "21fe76baa8f853b820e2c809fd0972ab76fb9f5c18694864b31386586cb36a2c"
 metafile = true
