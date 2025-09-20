@@ -37749,11 +37749,6 @@ hash = "6056c73b9ef97d432ca1e01c21f113de4519ec1d6247ae1d091b9706e6d9cd15"
 metafile = true
 
 [[files]]
-file = "mods/alexs-cloud-storage.pw.toml"
-hash = "0fbebe1e6ae13920ef3c4ed327700f0211f6182d57988790a54c5c364206bb64"
-metafile = true
-
-[[files]]
 file = "mods/alloy-smelter.pw.toml"
 hash = "2fddbc0deba035d4c1f22e32aea0f483bfbc3fe76eaac199668476e350136198"
 metafile = true
